@@ -79,10 +79,3 @@ module.exports = {
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };
-module.exports = {
-  plugins: [
-    `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`, // Needed for dynamic images
-  ],
-}
