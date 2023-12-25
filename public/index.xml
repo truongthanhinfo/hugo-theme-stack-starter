@@ -23,6 +23,13 @@
       <description>#Test 2 Hugo&#xA;XIn chao Hugo 2 test 2 thu xem sao</description>
     </item>
     <item>
+      <title>Test 333</title>
+      <link>/posts/test-3/</link>
+      <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
+      <guid>/posts/test-3/</guid>
+      <description>#Test 3 Hugo&#xA;XIn chao Hugo 333 test 3 thu xem sao</description>
+    </item>
+    <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Mon, 25 Dec 2023 23:23:13 +0700</pubDate>
