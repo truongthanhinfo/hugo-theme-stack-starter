@@ -2,56 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-10/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2023-12-25T23:23:13+07:00</lastmod>
   </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-11/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-12-25T23:23:13+07:00</lastmod>
   </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-12/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2023-12-25T23:23:13+07:00</lastmod>
   </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-2/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-3/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-4/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-5/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-6/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-7/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-8/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p-9/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-sao-ch%C3%A9p/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/my-first-post-test/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/posts/</loc>
-    <lastmod>2023-11-17T12:52:43+07:00</lastmod>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/categories/</loc>
-  </url><url>
-    <loc>https://truongthanhinfo.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

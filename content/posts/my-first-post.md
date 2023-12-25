@@ -1,9 +1,11 @@
 +++
-title = 'Chào mừng đến với Hugo'
-date = 2023-11-17
+title = 'My First Post'
+date = 2023-12-25T23:23:13+07:00
 draft = false
 +++
-# Test xem sao
-Chào mừng đến với Hugo
-![The best thing to hold onto in life is each other](/images/
-2023/12/19/lanh-ha-noi.jpg "Wedding - Save the date")
+---
+## Introduction
+
+This is **bold** text, and this is *emphasized* text.
+
+Visit the [Hugo](https://gohugo.io) website!
