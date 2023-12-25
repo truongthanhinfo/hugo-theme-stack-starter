@@ -1,0 +1,4 @@
+run: |
+  hugo \
+    --gc --minify \
+    --baseURL "https://${{ github.repository_owner }}.github.io/"  
