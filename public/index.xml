@@ -13,28 +13,32 @@
       <link>/posts/test/</link>
       <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
       <guid>/posts/test/</guid>
-      <description>#Test Hugo&#xA;XIn chao Hugo test thu xem sao</description>
+      <description>#Test Hugo
+XIn chao Hugo test thu xem sao</description>
     </item>
     <item>
       <title>Test 2</title>
       <link>/posts/test-2/</link>
       <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
       <guid>/posts/test-2/</guid>
-      <description>#Test 2 Hugo&#xA;XIn chao Hugo 2 test 2 thu xem sao</description>
+      <description>#Test 2 Hugo
+XIn chao Hugo 2 test 2 thu xem sao</description>
     </item>
     <item>
       <title>Test 333</title>
       <link>/posts/test-3/</link>
       <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
       <guid>/posts/test-3/</guid>
-      <description>#Test 3 Hugo&#xA;XIn chao Hugo 333 test 3 thu xem sao</description>
+      <description>#Test 3 Hugo
+XIn chao Hugo 333 test 3 thu xem sao</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Mon, 25 Dec 2023 23:23:13 +0700</pubDate>
       <guid>/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
     </item>
   </channel>
 </rss>
