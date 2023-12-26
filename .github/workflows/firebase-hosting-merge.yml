@@ -7,12 +7,50 @@ name: Deploy to Firebase Hosting on merge
     branches:
       - main
 jobs:
-  build_and_deploy:
+  deploy_app:
+    name: Deploy app
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: npm ci && npm run build
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+      - name: Check out latest code from main branch
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Lint all files
+        run: yarn lint:ci
+
+      - name: Run all tests
+        run: yarn test:ci
+
+      - name: Create production build of app
+        run: yarn build
+
+      - name: Deploy production build of app to djin.dev
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DJIN_DEV }}'
+          channelId: live
+          projectId: djin-dev
+          target: app
+        env:
+          FIREBASE_CLI_PREVIEWS: hostingchannels
+  deploy_storybook:
+    name: Deploy Storybook static site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out latest code from main branch
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Create production build of storybook static site
+        run: yarn build-storybook
+
+      - name: Deploy production build of storybook static site to storybook.djin.dev
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TRUONGTHANHINFO_EB00C }}'
