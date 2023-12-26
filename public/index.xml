@@ -9,6 +9,14 @@
     <lastBuildDate>Mon, 25 Dec 2023 23:54:41 +0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Liên hệ Hugo</title>
+      <link>/posts/contact/</link>
+      <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
+      <guid>/posts/contact/</guid>
+      <description>#Liên hệ Hugo
+XIn chao Hugo Chào Hugo</description>
+    </item>
+    <item>
       <title>Test</title>
       <link>/posts/test/</link>
       <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
