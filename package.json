@@ -1,22 +1,43 @@
 {
-  "name": "/",
-  "version": "1.0.0",
-  "private": true,
-  "config" : {
-    "sitemap" : "/sitemap.xml",
-    "destination" : "user@example.com:/home/example/public_html/"
+  "comments": {
+    "dependencies": {
+      "glob": "project"
+    },
+    "devDependencies": {
+      "auto-changelog": "ananke",
+      "cssnano": "ananke",
+      "postcss-cli": "ananke",
+      "postcss-cssnext": "ananke",
+      "rimraf": "project",
+      "tachyons": "ananke"
+    }
   },
-  "scripts": {
-    "clean": "rimraf ./public",
-    "prebuild": "npm run clean",
-    "build": "hugo",
-    "predeploy": "npm run build",
-    "deploy": "rsync -crtvz --progress ./public/ $npm_package_config_destination",
-    "ping-sitemap:google": "curl -so /dev/null --fail https://www.google.com/ping?sitemap=$npm_package_config_sitemap",
-    "ping-sitemap:bing": "curl -so /dev/null --fail https://www.bing.com/ping?sitemap=$npm_package_config_sitemap",
-    "ping-sitemap": "npm run ping-sitemap:google & ping-sitemap:bing"
+  "config": {
+    "destination": "user@example.com:/home/example/public_html/",
+    "sitemap": "/sitemap.xml"
+  },
+  "dependencies": {
+    "glob": "^8.0.3"
   },
   "devDependencies": {
-    "rimraf": "^2.5.4"
-  }
+    "auto-changelog": "^1.16.1",
+    "cssnano": "^6.0.2",
+    "postcss-cli": "^11.0.0",
+    "postcss-cssnext": "^2.10.0",
+    "rimraf": "^2.5.4",
+    "tachyons": "^4.9.1"
+  },
+  "name": "/",
+  "private": true,
+  "scripts": {
+    "build": "hugo",
+    "clean": "rimraf ./public",
+    "deploy": "rsync -crtvz --progress ./public/ $npm_package_config_destination",
+    "ping-sitemap": "npm run ping-sitemap:google & ping-sitemap:bing",
+    "ping-sitemap:bing": "curl -so /dev/null --fail https://www.bing.com/ping?sitemap=$npm_package_config_sitemap",
+    "ping-sitemap:google": "curl -so /dev/null --fail https://www.google.com/ping?sitemap=$npm_package_config_sitemap",
+    "prebuild": "npm run clean",
+    "predeploy": "npm run build"
+  },
+  "version": "1.0.0"
 }
