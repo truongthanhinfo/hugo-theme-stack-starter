@@ -33,6 +33,14 @@ XIn chao Hugo 2 test 2 thu xem sao</description>
 XIn chao Hugo 333 test 3 thu xem sao</description>
     </item>
     <item>
+      <title>Xin chào Hugo</title>
+      <link>/posts/hello/</link>
+      <pubDate>Mon, 25 Dec 2023 23:54:41 +0700</pubDate>
+      <guid>/posts/hello/</guid>
+      <description>#Xin chào Hugo
+XIn chao Hugo Chào Hugo</description>
+    </item>
+    <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Mon, 25 Dec 2023 23:23:13 +0700</pubDate>
