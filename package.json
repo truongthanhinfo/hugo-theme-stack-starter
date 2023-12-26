@@ -1,0 +1,22 @@
+{
+  "name": "/",
+  "version": "1.0.0",
+  "private": true,
+  "config" : {
+    "sitemap" : "/sitemap.xml",
+    "destination" : "user@example.com:/home/example/public_html/"
+  },
+  "scripts": {
+    "clean": "rimraf ./public",
+    "prebuild": "npm run clean",
+    "build": "hugo",
+    "predeploy": "npm run build",
+    "deploy": "rsync -crtvz --progress ./public/ $npm_package_config_destination",
+    "ping-sitemap:google": "curl -so /dev/null --fail https://www.google.com/ping?sitemap=$npm_package_config_sitemap",
+    "ping-sitemap:bing": "curl -so /dev/null --fail https://www.bing.com/ping?sitemap=$npm_package_config_sitemap",
+    "ping-sitemap": "npm run ping-sitemap:google & ping-sitemap:bing"
+  },
+  "devDependencies": {
+    "rimraf": "^2.5.4"
+  }
+}
