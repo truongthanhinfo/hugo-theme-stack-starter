@@ -1,13 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - TruongThanh.info</title>
         <link>/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+        <description>Tags - Tag - TruongThanh.info</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nguyentruongthank@gmail.com (Thanh)</managingEditor>
+            <webMaster>nguyentruongthank@gmail.com (Thanh)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
     <title>cach-lam</title>
     <link>/tags/cach-lam/</link>
     <pubDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/cach-lam/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -15,7 +16,7 @@
     <title>tai-sao</title>
     <link>/tags/tai-sao/</link>
     <pubDate>Mon, 06 Nov 2023 15:21:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/tai-sao/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -23,7 +24,7 @@
     <title>vi-sao</title>
     <link>/tags/vi-sao/</link>
     <pubDate>Mon, 06 Nov 2023 15:16:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/vi-sao/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -31,7 +32,7 @@
     <title>la-ai</title>
     <link>/tags/la-ai/</link>
     <pubDate>Sat, 04 Nov 2023 11:37:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/la-ai/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -39,7 +40,7 @@
     <title>danh-gia</title>
     <link>/tags/danh-gia/</link>
     <pubDate>Thu, 02 Nov 2023 14:19:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/danh-gia/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -47,7 +48,7 @@
     <title>o-dau</title>
     <link>/tags/o-dau/</link>
     <pubDate>Fri, 27 Oct 2023 11:09:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/o-dau/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -55,7 +56,7 @@
     <title>la-gi</title>
     <link>/tags/la-gi/</link>
     <pubDate>Thu, 19 Oct 2023 14:25:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/la-gi/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -63,7 +64,7 @@
     <title>khac</title>
     <link>/tags/khac/</link>
     <pubDate>Tue, 03 Oct 2023 12:30:00 &#43;0700</pubDate>
-    <author>Author</author>
+    <author>Thanh</author>
     <guid>/tags/khac/</guid>
     <description><![CDATA[]]></description>
 </item>
