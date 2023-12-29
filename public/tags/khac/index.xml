@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>khac - Tag - My New Hugo Site</title>
+        <link>/tags/khac/</link>
+        <description>khac - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 12:30:00 &#43;0700</lastBuildDate><atom:link href="/tags/khac/" rel="self" type="application/rss+xml" /><item>
+    <title>Danh sách mã điện thoại theo quốc gia</title>
+    <link>/2023/10/ma-dien-thoai.html</link>
+    <pubDate>Tue, 03 Oct 2023 12:30:00 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>/2023/10/ma-dien-thoai.html</guid>
+    <description><![CDATA[Mã gọi quốc tế là gì? Mỗi quốc gia có mã gọi riêng. Chúng được nhóm gần đúng theo khu vực, ví dụ: tất cả các mã vùng ở Bắc Mỹ bắt đầu bằng 1 và ở Châu Phi bằng 2. Nếu bạn đang gọi từ quốc gia này sang quốc gia khác, bạn bắt đầu nhập số có cái gọi là &ldquo;mã quay số trực tiếp quốc tế&rdquo; ( mã IDD).]]></description>
+</item>
+<item>
+    <title>Mã quốc gia quốc tế là gì? Đuôi tên miền của các quốc gia là bao nhiêu?</title>
+    <link>/2023/09/ma-quoc-gia.html</link>
+    <pubDate>Thu, 28 Sep 2023 15:32:00 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>/2023/09/ma-quoc-gia.html</guid>
+    <description><![CDATA[Mã quốc gia quốc tế của các quốc gia là bao nhiêu, Mã tiền tệ các quốc gia là gì, Đuôi tên miền của các quốc gia là bao nhiêu. Cùng TruongThanh.Info tìm hiểu các bạn nhé
+Mã quốc gia quốc tế của tất cả các bang theo một số tiêu chuẩn khác nhau.
+ISO:
+Tổ chức Quốc tế về Tiêu chuẩn hoá
+IOC:
+Ủy ban Olympic quốc tế
+Fips 10:]]></description>
+</item>
+</channel>
+</rss>
