@@ -1,102 +1,171 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>cach-lam - Tag - TruongThanh.info</title>
-        <link>/tags/cach-lam/</link>
-        <description>cach-lam - Tag - TruongThanh.info</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nguyentruongthank@gmail.com (Thanh)</managingEditor>
-            <webMaster>nguyentruongthank@gmail.com (Thanh)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</lastBuildDate><atom:link href="/tags/cach-lam/" rel="self" type="application/rss+xml" /><item>
-    <title>Hướng dẫn cách làm bánh chuối thơm ngon và đơn giản tại nhà</title>
-    <link>/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</link>
-    <pubDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</guid>
-    <description><![CDATA[Bánh chuối là một món tráng miệng ngon miệng và là lựa chọn hoàn hảo cho những trái chuối chín quá mà bạn không muốn lãng phí. Trong bài viết này, chúng ta sẽ hướng dẫn bạn cách làm bánh chuối thơm ngon và đơn giản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cach-lam on TruongThanhinfo</title>
+    <link>/tags/cach-lam/</link>
+    <description>Recent content in cach-lam on TruongThanhinfo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Nov 2023 14:14:00 +0700</lastBuildDate>
+    <atom:link href="/tags/cach-lam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn cách làm bánh chuối thơm ngon và đơn giản tại nhà</title>
+      <link>/posts/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</link>
+      <pubDate>Tue, 07 Nov 2023 14:14:00 +0700</pubDate>
+      <guid>/posts/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</guid>
+      <description>Bánh chuối là một món tráng miệng ngon miệng và là lựa chọn hoàn hảo cho những trái chuối chín quá mà bạn không muốn lãng phí. Trong bài viết này, chúng ta sẽ hướng dẫn bạn cách làm bánh chuối thơm ngon và đơn giản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-3-4 trái chuối chín, nghiền nhuyễn. 1/2 cup (115g) bơ, hỗn hợp vàng. 1 cup (200g) đường.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn cách làm bánh mì thơm ngon tại nhà</title>
-    <link>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</link>
-    <pubDate>Tue, 07 Nov 2023 14:04:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</guid>
-    <description><![CDATA[Tự làm bánh mì tại nhà là một hoạt động thú vị và đáng thử cho mọi người, không chỉ vì bạn có thể tạo ra bánh mì tươi ngon mà còn vì quy trình nấu ăn này mang lại niềm vui sáng tạo. Trong bài viết này, chúng ta sẽ tìm hiểu cách làm bánh mì tại nhà một cách đơn giản và ngon miệng. Cùng TruongThanh.info tìm hiểu bạn nhé.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm siro mận tự nhiên ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</link>
-    <pubDate>Tue, 07 Nov 2023 13:59:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</guid>
-    <description><![CDATA[Siro mận là một loại siro trái cây thơm ngon và bổ dưỡng có thể được sử dụng để ướp hoặc nấu các món ăn ngon. Nó cũng có thể được dùng để tạo ra các đồ uống thơm ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm siro mận tự nhiên tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+3-4 trái chuối chín, nghiền nhuyễn. 1/2 cup (115g) bơ, hỗn hợp vàng. 1 cup (200g) đường.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn cách làm bánh mì thơm ngon tại nhà</title>
+      <link>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 14:04:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</guid>
+      <description>Tự làm bánh mì tại nhà là một hoạt động thú vị và đáng thử cho mọi người, không chỉ vì bạn có thể tạo ra bánh mì tươi ngon mà còn vì quy trình nấu ăn này mang lại niềm vui sáng tạo. Trong bài viết này, chúng ta sẽ tìm hiểu cách làm bánh mì tại nhà một cách đơn giản và ngon miệng. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm siro mận tự nhiên ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 13:59:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</guid>
+      <description>Siro mận là một loại siro trái cây thơm ngon và bổ dưỡng có thể được sử dụng để ướp hoặc nấu các món ăn ngon. Nó cũng có thể được dùng để tạo ra các đồ uống thơm ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm siro mận tự nhiên tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-500g mận tươi 1 cốc đường (tùy khẩu vị) 1/2 cốc nước 1/2 quả chanh (vắt lấy nước chanh) 1 ống vani (tùy chọn) Cách làm:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trân châu đường đen ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</link>
-    <pubDate>Tue, 07 Nov 2023 12:06:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</guid>
-    <description><![CDATA[Trân châu đường đen là một loại nguyên liệu thú vị được sử dụng trong nhiều đồ uống trà sữa và trà trân châu phổ biến. Vị ngọt của đường đen và độ giòn của trân châu kết hợp tạo nên một hương vị độc đáo và thú vị. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trân châu đường đen ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà vải tươi mát tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:59:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</guid>
-    <description><![CDATA[Trà vải là một loại đồ uống tuyệt vời để thưởng thức trong những ngày nóng bức hoặc khi bạn muốn thưởng thức hương vị trái cây tươi ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà vải ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+500g mận tươi 1 cốc đường (tùy khẩu vị) 1/2 cốc nước 1/2 quả chanh (vắt lấy nước chanh) 1 ống vani (tùy chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trân châu đường đen ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 12:06:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</guid>
+      <description>Trân châu đường đen là một loại nguyên liệu thú vị được sử dụng trong nhiều đồ uống trà sữa và trà trân châu phổ biến. Vị ngọt của đường đen và độ giòn của trân châu kết hợp tạo nên một hương vị độc đáo và thú vị. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trân châu đường đen ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà vải tươi mát tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:59:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</guid>
+      <description>Trà vải là một loại đồ uống tuyệt vời để thưởng thức trong những ngày nóng bức hoặc khi bạn muốn thưởng thức hương vị trái cây tươi ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà vải ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-2-3 túi trà đen hoặc trà xanh 2 cốc nước sôi 1 cốc nước lọc 1/2 cốc đường (tùy khẩu vị) 2 quả vải (hoặc 1 cốc nước vải tươi lọc) Đá lạnh Lá bạc hà (tuỳ chọn) Cách làm:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm chân gà sả tắc ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:52:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</guid>
-    <description><![CDATA[Chân gà sả tắc là một món ăn ngon và thơm ngon, thường được ưa chuộng trong ẩm thực Đông Á. Vị chua cay của sả, hương thơm của tắc, và vị béo ngon của chân gà tạo nên một hương vị độc đáo và hấp dẫn. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm chân gà sả tắc ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm nước chấm hải sản tươi ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:43:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</guid>
-    <description><![CDATA[Nước chấm hải sản là một loại nước mắm chua ngọt thường được kèm theo khi thưởng thức hải sản tươi ngon. Hương vị đặc biệt và thơm ngon của nước chấm giúp tăng cường trải nghiệm ẩm thực khi bạn thưởng thức các loại hải sản. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm nước chấm hải sản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
-Nguyên liệu:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà sữa trân châu đường đen thơm ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:01:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</guid>
-    <description><![CDATA[Trà sữa trân châu đường đen là một món đồ uống phổ biến và thú vị, kết hợp giữa hương vị trà thơm ngon, đường đen đặc biệt và trân châu dẻo ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà sữa trân châu đường đen ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+2-3 túi trà đen hoặc trà xanh 2 cốc nước sôi 1 cốc nước lọc 1/2 cốc đường (tùy khẩu vị) 2 quả vải (hoặc 1 cốc nước vải tươi lọc) Đá lạnh Lá bạc hà (tuỳ chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm chân gà sả tắc ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:52:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</guid>
+      <description>Chân gà sả tắc là một món ăn ngon và thơm ngon, thường được ưa chuộng trong ẩm thực Đông Á. Vị chua cay của sả, hương thơm của tắc, và vị béo ngon của chân gà tạo nên một hương vị độc đáo và hấp dẫn. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm chân gà sả tắc ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm nước chấm hải sản tươi ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:43:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</guid>
+      <description>Nước chấm hải sản là một loại nước mắm chua ngọt thường được kèm theo khi thưởng thức hải sản tươi ngon. Hương vị đặc biệt và thơm ngon của nước chấm giúp tăng cường trải nghiệm ẩm thực khi bạn thưởng thức các loại hải sản. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm nước chấm hải sản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nguyên liệu:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà sữa trân châu đường đen thơm ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:01:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</guid>
+      <description>Trà sữa trân châu đường đen là một món đồ uống phổ biến và thú vị, kết hợp giữa hương vị trà thơm ngon, đường đen đặc biệt và trân châu dẻo ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà sữa trân châu đường đen ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
 Phần trà sữa:
-2 ấm nước sôi (khoảng 500 ml) 2 túi trà ô long (hoặc loại trà yêu thích) 4-6 thìa sữa đặc (tùy khẩu vị) 2 thìa đường (hoặc tùy khẩu vị) Đá lạnh (tùy chọn) Phần trân châu:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà đào cam sả tươi mát tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</link>
-    <pubDate>Tue, 07 Nov 2023 10:50:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</guid>
-    <description><![CDATA[Trà đào cam sả là một loại đồ uống tươi mát, hòa quyện giữa hương vị ngọt ngào của đào, chua ngọt của cam, và hương thơm của sả. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà đào cam sả ngon miệng và bổ dưỡng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+2 ấm nước sôi (khoảng 500 ml) 2 túi trà ô long (hoặc loại trà yêu thích) 4-6 thìa sữa đặc (tùy khẩu vị) 2 thìa đường (hoặc tùy khẩu vị) Đá lạnh (tùy chọn) Phần trân châu:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà đào cam sả tươi mát tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</link>
+      <pubDate>Tue, 07 Nov 2023 10:50:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</guid>
+      <description>Trà đào cam sả là một loại đồ uống tươi mát, hòa quyện giữa hương vị ngọt ngào của đào, chua ngọt của cam, và hương thơm của sả. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà đào cam sả ngon miệng và bổ dưỡng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-2 ấm nước sôi (khoảng 500 ml) 2 túi trà đào 2 quả cam, vắt lấy nước cam 2 ống sả tươi Đường hoặc mật ong (tùy chọn) Đá lạnh (tùy chọn) Cách làm:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà tắc ngon và bổ dưỡng tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</link>
-    <pubDate>Tue, 07 Nov 2023 09:41:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</guid>
-    <description><![CDATA[Trà tắc là một loại đồ uống ngon mát và bổ dưỡng, được yêu thích bởi hương vị thơm ngon và lợi ích sức khỏe mà nó mang lại. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà tắc tại nhà, dễ dàng và nhanh chóng. Cùng TruongThanh.info tìm hiểu bạn nhé.
+2 ấm nước sôi (khoảng 500 ml) 2 túi trà đào 2 quả cam, vắt lấy nước cam 2 ống sả tươi Đường hoặc mật ong (tùy chọn) Đá lạnh (tùy chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà tắc ngon và bổ dưỡng tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</link>
+      <pubDate>Tue, 07 Nov 2023 09:41:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</guid>
+      <description>Trà tắc là một loại đồ uống ngon mát và bổ dưỡng, được yêu thích bởi hương vị thơm ngon và lợi ích sức khỏe mà nó mang lại. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà tắc tại nhà, dễ dàng và nhanh chóng. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-2-3 ấm nước sôi (khoảng 500-750 ml) 2-3 túi trà tắc (hoặc 2-3 thìa trà tắc hạt) Đường hoặc mật ong (tùy chọn) Lá bạc hà (tùy chọn) Đá lạnh (tùy chọn) Lựa chọn gia vị như quả chanh hoặc cam (tùy chọn) Cách làm:]]></description>
-</item>
-</channel>
+2-3 ấm nước sôi (khoảng 500-750 ml) 2-3 túi trà tắc (hoặc 2-3 thìa trà tắc hạt) Đường hoặc mật ong (tùy chọn) Lá bạc hà (tùy chọn) Đá lạnh (tùy chọn) Lựa chọn gia vị như quả chanh hoặc cam (tùy chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm đồ uống Milo dầm thơm ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-o-uong-milo-dam-thom-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 09:38:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-o-uong-milo-dam-thom-ngon.html</guid>
+      <description>Một cốc Milo dầm thơm ngon là một cách tuyệt vời để tận hưởng hương vị sô cô la và dằm tươi ngon trong một ngày nắng nóng hoặc bất kỳ lúc nào bạn muốn thỏa mãn đòi ngọt. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm đồ uống Milo dầm ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nguyên liệu:
+2-3 thìa sữa bột Milo 1 cốc sữa tươi 1/2 cốc nước dằm tươi (hoặc dằm đóng hộp) Đá lạnh 1-2 thìa đường (tùy khẩu vị) Cách làm:</description>
+    </item>
+    <item>
+      <title>Cách làm trà mãng cầu</title>
+      <link>/2023/11/cach-lam-tra-mang-cau.html</link>
+      <pubDate>Mon, 06 Nov 2023 16:28:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-tra-mang-cau.html</guid>
+      <description>Trà mãng cầu là một loại đồ uống ngon miệng và bổ dưỡng được làm từ quả mãng cầu tươi ngon. Nó có hương vị thanh mát và hấp dẫn, đặc biệt là vào những ngày nắng nóng. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách bạn có thể làm trà mãng cầu tại nhà:
+Nguyên liệu:
+2-3 quả mãng cầu tươi 2-3 ống đường (tùy khẩu vị) 2-3 ống chanh tươi Một nửa cốc đá viên (tùy chọn) 1 ống trà túi hoặc trà lá tùy theo sở thích Nước sôi Hướng dẫn:</description>
+    </item>
+    <item>
+      <title>Cách làm hộ chiếu online</title>
+      <link>/2023/11/cach-lam-ho-chieu-online.html</link>
+      <pubDate>Mon, 06 Nov 2023 16:22:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-ho-chieu-online.html</guid>
+      <description>Làm hộ chiếu online là một quá trình thuận tiện và tiết kiệm thời gian cho những người cần làm hộ chiếu mới hoặc gia hạn hộ chiếu hiện có. Thay vì phải đến cơ quan quản lý hộ chiếu và xếp hàng, bạn có thể thực hiện nhiều bước trực tuyến để chuẩn bị và nộp hồ sơ hộ chiếu của mình. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách bạn có thể làm hộ chiếu online:</description>
+    </item>
+    <item>
+      <title>Cách làm gà ủ muối</title>
+      <link>/2023/11/cach-lam-ga-u-muoi.html</link>
+      <pubDate>Mon, 06 Nov 2023 16:01:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-ga-u-muoi.html</guid>
+      <description>Gà ủ muối, còn được gọi là gà muối, là một món ăn truyền thống phổ biến trong nhiều nền văn hóa trên khắp thế giới. Món ăn này có hương vị độc đáo, giúp thịt gà trở nên ngon miệng và bền màu. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách bạn có thể làm gà ủ muối tại nhà:
+Nguyên liệu:
+1 con gà (tầm khoảng 2-3 kg) Muối biển (muối kosher hoặc muối biển lớn hạt) Gừng (tùy chọn) Bột nghệ (tùy chọn) Hành tím (tùy chọn) Tiêu đen (tùy chọn) Ủ bát (bát ủ muối) hoặc túi ủ Hướng dẫn:</description>
+    </item>
+    <item>
+      <title>Cách làm khoai tây chiên bằng nồi chiên không dầu</title>
+      <link>/2023/11/cach-lam-khoai-tay-chien-bang-noi-chien.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:56:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-khoai-tay-chien-bang-noi-chien.html</guid>
+      <description>Khoai tây chiên là một món ăn ngon và phổ biến mà hầu như ai cũng yêu thích. Tuy nhiên, việc chiên khoai tây trong dầu có thể làm cho món ăn trở nên nhiều calo và chất béo. Một giải pháp là làm khoai tây chiên bằng nồi chiên không dầu, mà không cần dầu nhiều, vẫn giữ được hương vị thơm ngon và độ giòn mềm đặc trưng. Cùng TruongThanh.</description>
+    </item>
+    <item>
+      <title>Cách làm cà phê bọt biển</title>
+      <link>/2023/11/cach-lam-ca-phe-bot-bien.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:49:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-ca-phe-bot-bien.html</guid>
+      <description>Cà phê bọt biển, hay còn được gọi là &amp;ldquo;cà phê dalgona,&amp;rdquo; là một món đồ uống độc đáo và ngon miệng, đã trở nên phổ biến trên khắp thế giới. Món này xuất phát từ Hàn Quốc và thường được thưởng thức ở nhà bằng cách tự tay pha chế. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Hãy cùng tìm hiểu cách làm cafe bọt biển tại nhà: Nguyên liệu:</description>
+    </item>
+    <item>
+      <title>Cách làm trứng ngâm tương</title>
+      <link>/2023/11/cach-lam-trung-ngam-tuong.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:39:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-trung-ngam-tuong.html</guid>
+      <description>Trứng ngâm tương, hay còn gọi là &amp;ldquo;trứng cút ngâm tương,&amp;rdquo; là món ngon truyền thống có nguồn gốc từ Đông Á. Món ăn này có hương vị độc đáo, hấp dẫn và rất dễ làm tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Hãy cùng tìm hiểu cách làm trứng ngâm tương ngon tại nhà:
+Nguyên liệu:
+Trứng cút (số lượng tùy ý)
+Nước tương (số lượng đủ để ngâm trứng)</description>
+    </item>
+    <item>
+      <title>Cách làm Chân Gà Sốt Thái</title>
+      <link>/2023/11/cach-lam-chan-ga-sot-thai.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:33:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-chan-ga-sot-thai.html</guid>
+      <description>Chân gà sốt Thái là món ăn ngon và hấp dẫn, kết hợp giữa vị ngon ngọt của chân gà và hương vị cay nồng của sốt Thái. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách làm món Chân Gà Sốt Thái tại nhà: Nguyên liệu:
+4-6 chiếc chân gà (tùy theo khẩu phần)
+1 hành tím, băm nhỏ
+3-4 tép tỏi, băm nhỏ
+2-3 quả ớt Thái, băm nhỏ (tùy khẩu vị cay)</description>
+    </item>
+  </channel>
 </rss>

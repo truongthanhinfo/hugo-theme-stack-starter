@@ -1,104 +1,1043 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>TruongThanh.info</title>
-        <link>/</link>
-        <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nguyentruongthank@gmail.com (Thanh)</managingEditor>
-            <webMaster>nguyentruongthank@gmail.com (Thanh)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</lastBuildDate>
-            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Hướng dẫn cách làm bánh chuối thơm ngon và đơn giản tại nhà</title>
-    <link>/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</link>
-    <pubDate>Tue, 07 Nov 2023 14:14:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</guid>
-    <description><![CDATA[Bánh chuối là một món tráng miệng ngon miệng và là lựa chọn hoàn hảo cho những trái chuối chín quá mà bạn không muốn lãng phí. Trong bài viết này, chúng ta sẽ hướng dẫn bạn cách làm bánh chuối thơm ngon và đơn giản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TruongThanhinfo</title>
+    <link>/</link>
+    <description>Recent content on TruongThanhinfo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Nov 2023 14:14:00 +0700</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn cách làm bánh chuối thơm ngon và đơn giản tại nhà</title>
+      <link>/posts/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</link>
+      <pubDate>Tue, 07 Nov 2023 14:14:00 +0700</pubDate>
+      <guid>/posts/h-ng-d-n-c-ch-l-m-b-nh-chu-i-th-m-ngon-v-n-gi-n-t-i-nh-/</guid>
+      <description>Bánh chuối là một món tráng miệng ngon miệng và là lựa chọn hoàn hảo cho những trái chuối chín quá mà bạn không muốn lãng phí. Trong bài viết này, chúng ta sẽ hướng dẫn bạn cách làm bánh chuối thơm ngon và đơn giản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-3-4 trái chuối chín, nghiền nhuyễn. 1/2 cup (115g) bơ, hỗn hợp vàng. 1 cup (200g) đường.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn cách làm bánh mì thơm ngon tại nhà</title>
-    <link>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</link>
-    <pubDate>Tue, 07 Nov 2023 14:04:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</guid>
-    <description><![CDATA[Tự làm bánh mì tại nhà là một hoạt động thú vị và đáng thử cho mọi người, không chỉ vì bạn có thể tạo ra bánh mì tươi ngon mà còn vì quy trình nấu ăn này mang lại niềm vui sáng tạo. Trong bài viết này, chúng ta sẽ tìm hiểu cách làm bánh mì tại nhà một cách đơn giản và ngon miệng. Cùng TruongThanh.info tìm hiểu bạn nhé.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm siro mận tự nhiên ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</link>
-    <pubDate>Tue, 07 Nov 2023 13:59:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</guid>
-    <description><![CDATA[Siro mận là một loại siro trái cây thơm ngon và bổ dưỡng có thể được sử dụng để ướp hoặc nấu các món ăn ngon. Nó cũng có thể được dùng để tạo ra các đồ uống thơm ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm siro mận tự nhiên tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+3-4 trái chuối chín, nghiền nhuyễn. 1/2 cup (115g) bơ, hỗn hợp vàng. 1 cup (200g) đường.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn cách làm bánh mì thơm ngon tại nhà</title>
+      <link>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 14:04:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-cach-lam-banh-mi-thom-ngon.html</guid>
+      <description>Tự làm bánh mì tại nhà là một hoạt động thú vị và đáng thử cho mọi người, không chỉ vì bạn có thể tạo ra bánh mì tươi ngon mà còn vì quy trình nấu ăn này mang lại niềm vui sáng tạo. Trong bài viết này, chúng ta sẽ tìm hiểu cách làm bánh mì tại nhà một cách đơn giản và ngon miệng. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm siro mận tự nhiên ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 13:59:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-siro-man-tu-nhien-ngon.html</guid>
+      <description>Siro mận là một loại siro trái cây thơm ngon và bổ dưỡng có thể được sử dụng để ướp hoặc nấu các món ăn ngon. Nó cũng có thể được dùng để tạo ra các đồ uống thơm ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm siro mận tự nhiên tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-500g mận tươi 1 cốc đường (tùy khẩu vị) 1/2 cốc nước 1/2 quả chanh (vắt lấy nước chanh) 1 ống vani (tùy chọn) Cách làm:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trân châu đường đen ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</link>
-    <pubDate>Tue, 07 Nov 2023 12:06:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</guid>
-    <description><![CDATA[Trân châu đường đen là một loại nguyên liệu thú vị được sử dụng trong nhiều đồ uống trà sữa và trà trân châu phổ biến. Vị ngọt của đường đen và độ giòn của trân châu kết hợp tạo nên một hương vị độc đáo và thú vị. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trân châu đường đen ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà vải tươi mát tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:59:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</guid>
-    <description><![CDATA[Trà vải là một loại đồ uống tuyệt vời để thưởng thức trong những ngày nóng bức hoặc khi bạn muốn thưởng thức hương vị trái cây tươi ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà vải ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+500g mận tươi 1 cốc đường (tùy khẩu vị) 1/2 cốc nước 1/2 quả chanh (vắt lấy nước chanh) 1 ống vani (tùy chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trân châu đường đen ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 12:06:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tran-chau-uong-en-ngon.html</guid>
+      <description>Trân châu đường đen là một loại nguyên liệu thú vị được sử dụng trong nhiều đồ uống trà sữa và trà trân châu phổ biến. Vị ngọt của đường đen và độ giòn của trân châu kết hợp tạo nên một hương vị độc đáo và thú vị. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trân châu đường đen ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà vải tươi mát tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:59:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-vai-tuoi-mat-tai-nha.html</guid>
+      <description>Trà vải là một loại đồ uống tuyệt vời để thưởng thức trong những ngày nóng bức hoặc khi bạn muốn thưởng thức hương vị trái cây tươi ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà vải ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-2-3 túi trà đen hoặc trà xanh 2 cốc nước sôi 1 cốc nước lọc 1/2 cốc đường (tùy khẩu vị) 2 quả vải (hoặc 1 cốc nước vải tươi lọc) Đá lạnh Lá bạc hà (tuỳ chọn) Cách làm:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm chân gà sả tắc ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:52:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</guid>
-    <description><![CDATA[Chân gà sả tắc là một món ăn ngon và thơm ngon, thường được ưa chuộng trong ẩm thực Đông Á. Vị chua cay của sả, hương thơm của tắc, và vị béo ngon của chân gà tạo nên một hương vị độc đáo và hấp dẫn. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm chân gà sả tắc ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm nước chấm hải sản tươi ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:43:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</guid>
-    <description><![CDATA[Nước chấm hải sản là một loại nước mắm chua ngọt thường được kèm theo khi thưởng thức hải sản tươi ngon. Hương vị đặc biệt và thơm ngon của nước chấm giúp tăng cường trải nghiệm ẩm thực khi bạn thưởng thức các loại hải sản. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm nước chấm hải sản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
-Nguyên liệu:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà sữa trân châu đường đen thơm ngon tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</link>
-    <pubDate>Tue, 07 Nov 2023 11:01:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</guid>
-    <description><![CDATA[Trà sữa trân châu đường đen là một món đồ uống phổ biến và thú vị, kết hợp giữa hương vị trà thơm ngon, đường đen đặc biệt và trân châu dẻo ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà sữa trân châu đường đen ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+2-3 túi trà đen hoặc trà xanh 2 cốc nước sôi 1 cốc nước lọc 1/2 cốc đường (tùy khẩu vị) 2 quả vải (hoặc 1 cốc nước vải tươi lọc) Đá lạnh Lá bạc hà (tuỳ chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm chân gà sả tắc ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:52:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-chan-ga-sa-tac-ngon-tai.html</guid>
+      <description>Chân gà sả tắc là một món ăn ngon và thơm ngon, thường được ưa chuộng trong ẩm thực Đông Á. Vị chua cay của sả, hương thơm của tắc, và vị béo ngon của chân gà tạo nên một hương vị độc đáo và hấp dẫn. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm chân gà sả tắc ngon tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm nước chấm hải sản tươi ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:43:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-nuoc-cham-hai-san-tuoi.html</guid>
+      <description>Nước chấm hải sản là một loại nước mắm chua ngọt thường được kèm theo khi thưởng thức hải sản tươi ngon. Hương vị đặc biệt và thơm ngon của nước chấm giúp tăng cường trải nghiệm ẩm thực khi bạn thưởng thức các loại hải sản. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm nước chấm hải sản tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nguyên liệu:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà sữa trân châu đường đen thơm ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</link>
+      <pubDate>Tue, 07 Nov 2023 11:01:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-sua-tran-chau-uong-en.html</guid>
+      <description>Trà sữa trân châu đường đen là một món đồ uống phổ biến và thú vị, kết hợp giữa hương vị trà thơm ngon, đường đen đặc biệt và trân châu dẻo ngon. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà sữa trân châu đường đen ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
 Phần trà sữa:
-2 ấm nước sôi (khoảng 500 ml) 2 túi trà ô long (hoặc loại trà yêu thích) 4-6 thìa sữa đặc (tùy khẩu vị) 2 thìa đường (hoặc tùy khẩu vị) Đá lạnh (tùy chọn) Phần trân châu:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà đào cam sả tươi mát tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</link>
-    <pubDate>Tue, 07 Nov 2023 10:50:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</guid>
-    <description><![CDATA[Trà đào cam sả là một loại đồ uống tươi mát, hòa quyện giữa hương vị ngọt ngào của đào, chua ngọt của cam, và hương thơm của sả. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà đào cam sả ngon miệng và bổ dưỡng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+2 ấm nước sôi (khoảng 500 ml) 2 túi trà ô long (hoặc loại trà yêu thích) 4-6 thìa sữa đặc (tùy khẩu vị) 2 thìa đường (hoặc tùy khẩu vị) Đá lạnh (tùy chọn) Phần trân châu:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà đào cam sả tươi mát tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</link>
+      <pubDate>Tue, 07 Nov 2023 10:50:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-ao-cam-sa-tuoi-mat.html</guid>
+      <description>Trà đào cam sả là một loại đồ uống tươi mát, hòa quyện giữa hương vị ngọt ngào của đào, chua ngọt của cam, và hương thơm của sả. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà đào cam sả ngon miệng và bổ dưỡng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-2 ấm nước sôi (khoảng 500 ml) 2 túi trà đào 2 quả cam, vắt lấy nước cam 2 ống sả tươi Đường hoặc mật ong (tùy chọn) Đá lạnh (tùy chọn) Cách làm:]]></description>
-</item>
-<item>
-    <title>Hướng dẫn làm trà tắc ngon và bổ dưỡng tại nhà</title>
-    <link>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</link>
-    <pubDate>Tue, 07 Nov 2023 09:41:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</guid>
-    <description><![CDATA[Trà tắc là một loại đồ uống ngon mát và bổ dưỡng, được yêu thích bởi hương vị thơm ngon và lợi ích sức khỏe mà nó mang lại. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà tắc tại nhà, dễ dàng và nhanh chóng. Cùng TruongThanh.info tìm hiểu bạn nhé.
+2 ấm nước sôi (khoảng 500 ml) 2 túi trà đào 2 quả cam, vắt lấy nước cam 2 ống sả tươi Đường hoặc mật ong (tùy chọn) Đá lạnh (tùy chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm trà tắc ngon và bổ dưỡng tại nhà</title>
+      <link>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</link>
+      <pubDate>Tue, 07 Nov 2023 09:41:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-tra-tac-ngon-va-bo-duong.html</guid>
+      <description>Trà tắc là một loại đồ uống ngon mát và bổ dưỡng, được yêu thích bởi hương vị thơm ngon và lợi ích sức khỏe mà nó mang lại. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách làm trà tắc tại nhà, dễ dàng và nhanh chóng. Cùng TruongThanh.info tìm hiểu bạn nhé.
 Nguyên liệu:
-2-3 ấm nước sôi (khoảng 500-750 ml) 2-3 túi trà tắc (hoặc 2-3 thìa trà tắc hạt) Đường hoặc mật ong (tùy chọn) Lá bạc hà (tùy chọn) Đá lạnh (tùy chọn) Lựa chọn gia vị như quả chanh hoặc cam (tùy chọn) Cách làm:]]></description>
-</item>
-</channel>
+2-3 ấm nước sôi (khoảng 500-750 ml) 2-3 túi trà tắc (hoặc 2-3 thìa trà tắc hạt) Đường hoặc mật ong (tùy chọn) Lá bạc hà (tùy chọn) Đá lạnh (tùy chọn) Lựa chọn gia vị như quả chanh hoặc cam (tùy chọn) Cách làm:</description>
+    </item>
+    <item>
+      <title>Hướng dẫn làm đồ uống Milo dầm thơm ngon tại nhà</title>
+      <link>/2023/11/huong-dan-lam-o-uong-milo-dam-thom-ngon.html</link>
+      <pubDate>Tue, 07 Nov 2023 09:38:00 +0700</pubDate>
+      <guid>/2023/11/huong-dan-lam-o-uong-milo-dam-thom-ngon.html</guid>
+      <description>Một cốc Milo dầm thơm ngon là một cách tuyệt vời để tận hưởng hương vị sô cô la và dằm tươi ngon trong một ngày nắng nóng hoặc bất kỳ lúc nào bạn muốn thỏa mãn đòi ngọt. Dưới đây, chúng tôi sẽ hướng dẫn bạn cách làm đồ uống Milo dầm ngon miệng tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nguyên liệu:
+2-3 thìa sữa bột Milo 1 cốc sữa tươi 1/2 cốc nước dằm tươi (hoặc dằm đóng hộp) Đá lạnh 1-2 thìa đường (tùy khẩu vị) Cách làm:</description>
+    </item>
+    <item>
+      <title>Cách làm trà mãng cầu</title>
+      <link>/2023/11/cach-lam-tra-mang-cau.html</link>
+      <pubDate>Mon, 06 Nov 2023 16:28:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-tra-mang-cau.html</guid>
+      <description>Trà mãng cầu là một loại đồ uống ngon miệng và bổ dưỡng được làm từ quả mãng cầu tươi ngon. Nó có hương vị thanh mát và hấp dẫn, đặc biệt là vào những ngày nắng nóng. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách bạn có thể làm trà mãng cầu tại nhà:
+Nguyên liệu:
+2-3 quả mãng cầu tươi 2-3 ống đường (tùy khẩu vị) 2-3 ống chanh tươi Một nửa cốc đá viên (tùy chọn) 1 ống trà túi hoặc trà lá tùy theo sở thích Nước sôi Hướng dẫn:</description>
+    </item>
+    <item>
+      <title>Cách làm hộ chiếu online</title>
+      <link>/2023/11/cach-lam-ho-chieu-online.html</link>
+      <pubDate>Mon, 06 Nov 2023 16:22:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-ho-chieu-online.html</guid>
+      <description>Làm hộ chiếu online là một quá trình thuận tiện và tiết kiệm thời gian cho những người cần làm hộ chiếu mới hoặc gia hạn hộ chiếu hiện có. Thay vì phải đến cơ quan quản lý hộ chiếu và xếp hàng, bạn có thể thực hiện nhiều bước trực tuyến để chuẩn bị và nộp hồ sơ hộ chiếu của mình. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách bạn có thể làm hộ chiếu online:</description>
+    </item>
+    <item>
+      <title>Cách làm gà ủ muối</title>
+      <link>/2023/11/cach-lam-ga-u-muoi.html</link>
+      <pubDate>Mon, 06 Nov 2023 16:01:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-ga-u-muoi.html</guid>
+      <description>Gà ủ muối, còn được gọi là gà muối, là một món ăn truyền thống phổ biến trong nhiều nền văn hóa trên khắp thế giới. Món ăn này có hương vị độc đáo, giúp thịt gà trở nên ngon miệng và bền màu. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách bạn có thể làm gà ủ muối tại nhà:
+Nguyên liệu:
+1 con gà (tầm khoảng 2-3 kg) Muối biển (muối kosher hoặc muối biển lớn hạt) Gừng (tùy chọn) Bột nghệ (tùy chọn) Hành tím (tùy chọn) Tiêu đen (tùy chọn) Ủ bát (bát ủ muối) hoặc túi ủ Hướng dẫn:</description>
+    </item>
+    <item>
+      <title>Cách làm khoai tây chiên bằng nồi chiên không dầu</title>
+      <link>/2023/11/cach-lam-khoai-tay-chien-bang-noi-chien.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:56:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-khoai-tay-chien-bang-noi-chien.html</guid>
+      <description>Khoai tây chiên là một món ăn ngon và phổ biến mà hầu như ai cũng yêu thích. Tuy nhiên, việc chiên khoai tây trong dầu có thể làm cho món ăn trở nên nhiều calo và chất béo. Một giải pháp là làm khoai tây chiên bằng nồi chiên không dầu, mà không cần dầu nhiều, vẫn giữ được hương vị thơm ngon và độ giòn mềm đặc trưng. Cùng TruongThanh.</description>
+    </item>
+    <item>
+      <title>Cách làm cà phê bọt biển</title>
+      <link>/2023/11/cach-lam-ca-phe-bot-bien.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:49:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-ca-phe-bot-bien.html</guid>
+      <description>Cà phê bọt biển, hay còn được gọi là &amp;ldquo;cà phê dalgona,&amp;rdquo; là một món đồ uống độc đáo và ngon miệng, đã trở nên phổ biến trên khắp thế giới. Món này xuất phát từ Hàn Quốc và thường được thưởng thức ở nhà bằng cách tự tay pha chế. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Hãy cùng tìm hiểu cách làm cafe bọt biển tại nhà: Nguyên liệu:</description>
+    </item>
+    <item>
+      <title>Cách làm trứng ngâm tương</title>
+      <link>/2023/11/cach-lam-trung-ngam-tuong.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:39:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-trung-ngam-tuong.html</guid>
+      <description>Trứng ngâm tương, hay còn gọi là &amp;ldquo;trứng cút ngâm tương,&amp;rdquo; là món ngon truyền thống có nguồn gốc từ Đông Á. Món ăn này có hương vị độc đáo, hấp dẫn và rất dễ làm tại nhà. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Hãy cùng tìm hiểu cách làm trứng ngâm tương ngon tại nhà:
+Nguyên liệu:
+Trứng cút (số lượng tùy ý)
+Nước tương (số lượng đủ để ngâm trứng)</description>
+    </item>
+    <item>
+      <title>Cách làm Chân Gà Sốt Thái</title>
+      <link>/2023/11/cach-lam-chan-ga-sot-thai.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:33:00 +0700</pubDate>
+      <guid>/2023/11/cach-lam-chan-ga-sot-thai.html</guid>
+      <description>Chân gà sốt Thái là món ăn ngon và hấp dẫn, kết hợp giữa vị ngon ngọt của chân gà và hương vị cay nồng của sốt Thái. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Dưới đây là cách làm món Chân Gà Sốt Thái tại nhà: Nguyên liệu:
+4-6 chiếc chân gà (tùy theo khẩu phần)
+1 hành tím, băm nhỏ
+3-4 tép tỏi, băm nhỏ
+2-3 quả ớt Thái, băm nhỏ (tùy khẩu vị cay)</description>
+    </item>
+    <item>
+      <title>Tại sao người ta nói rằng thời gian là tương đối?</title>
+      <link>/2023/11/tai-sao-nguoi-ta-noi-rang-thoi-gian-la.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:21:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-nguoi-ta-noi-rang-thoi-gian-la.html</guid>
+      <description>Khái niệm về thời gian và cách nó được hiểu đã trải qua nhiều sự thay đổi và phát triển qua các thế kỷ. Một trong những lý thuyết quan trọng về thời gian là lý thuyết tương đối của Albert Einstein. Lý thuyết này đã đưa ra một cái nhìn mới về cách chúng ta hiểu về thời gian và tại sao người ta nói rằng thời gian là tương đối.</description>
+    </item>
+    <item>
+      <title>Vì sao nhiệt độ trên trái đất nóng lên?</title>
+      <link>/2023/11/vi-sao-nhiet-o-tren-trai-at-nong-len.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:16:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-nhiet-o-tren-trai-at-nong-len.html</guid>
+      <description>Hiện tượng nóng lên của nhiệt độ trên trái đất, hay còn gọi là biến đổi khí hậu toàn cầu, là một vấn đề nóng bỏng đang ảnh hưởng đến môi trường và cuộc sống trên hành tinh. Làm thế nào và tại sao nhiệt độ trên trái đất nóng lên? Hãy cùng tìm hiểu. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Hiệu ứng nhà kính:
+Một trong những nguyên nhân chính gây nóng lên của trái đất là hiệu ứng nhà kính.</description>
+    </item>
+    <item>
+      <title>Tại sao con người cảm thấy đau khi bị thương?</title>
+      <link>/2023/11/tai-sao-con-nguoi-cam-thay-au-khi-bi.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:10:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-con-nguoi-cam-thay-au-khi-bi.html</guid>
+      <description>Cảm giác đau là một phản ứng tự nhiên và quan trọng của cơ thể con người khi chúng ta bị thương hoặc gặp vấn đề sức khỏe. Đau không chỉ là một dấu hiệu cho thấy có vấn đề gì đó, mà còn là một cơ chế bảo vệ và cảnh báo cho cơ thể chúng ta. Tại sao con người cảm thấy đau khi bị thương? Dưới đây là những nguyên nhân cơ bản.</description>
+    </item>
+    <item>
+      <title>Vì sao nhiệt độ trên trái đất có sự biến đổi mùa và ngày đêm?</title>
+      <link>/2023/11/vi-sao-nhiet-o-tren-trai-at-co-su-bien.html</link>
+      <pubDate>Mon, 06 Nov 2023 15:01:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-nhiet-o-tren-trai-at-co-su-bien.html</guid>
+      <description>Mùa và ngày đêm là hai khía cạnh quan trọng của cuộc sống trên trái đất, và sự biến đổi nhiệt độ theo mùa và trong suốt ngày đêm được điều khiển bởi một số yếu tố thiết yếu liên quan đến vị trí của trái đất trong hệ mặt trời. Hãy cùng tìm hiểu tại sao nhiệt độ trên trái đất có sự biến đổi mùa và ngày đêm. Cùng TruongThanh.</description>
+    </item>
+    <item>
+      <title>Tại sao trái đất có nhiều loại động vật và cây cỏ khác nhau?</title>
+      <link>/2023/11/tai-sao-trai-at-co-nhieu-loai-ong-vat.html</link>
+      <pubDate>Mon, 06 Nov 2023 14:56:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-trai-at-co-nhieu-loai-ong-vat.html</guid>
+      <description>Trái đất là một hành tinh đa dạng và phong phú về sự sống. Trên toàn thế giới, chúng ta có thể tìm thấy hàng triệu loài động vật và cây cỏ, mỗi loài đều có đặc điểm và đặc tính riêng biệt. Tại sao sự đa dạng này tồn tại? Hãy cùng khám phá lý do tại sao trái đất có nhiều loại động vật và cây cỏ khác nhau.</description>
+    </item>
+    <item>
+      <title>Vì sao bài hát có thể làm chúng ta cảm thấy xúc động?</title>
+      <link>/2023/11/vi-sao-bai-hat-co-lam-chung-ta-cam-thay.html</link>
+      <pubDate>Mon, 06 Nov 2023 14:51:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-bai-hat-co-lam-chung-ta-cam-thay.html</guid>
+      <description>Âm nhạc là một ngôn ngữ mà không cần từ vựng hoặc ngữ pháp. Nó có khả năng diễn đạt cảm xúc và truyền tải thông điệp một cách mạnh mẽ, và điều này thường được thể hiện qua bài hát. Nhưng tại sao bài hát có thể làm chúng ta cảm thấy xúc động? Hãy cùng tìm hiểu. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Kết hợp âm nhạc và lời bài hát:</description>
+    </item>
+    <item>
+      <title>Tại sao mặt trăng có hình dáng khác với trái đất?</title>
+      <link>/2023/11/tai-sao-mat-trang-co-hinh-dang-khac-voi.html</link>
+      <pubDate>Mon, 06 Nov 2023 12:13:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-mat-trang-co-hinh-dang-khac-voi.html</guid>
+      <description>Mặt trăng luôn là một hiện tượng đầy thú vị trong bầu trời đêm, và một trong những điều quan tâm về nó chính là hình dáng đặc biệt của nó. Tại sao mặt trăng lại có hình dáng khác với trái đất? Hãy cùng khám phá các nguyên nhân sau đây. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Thiếu môi trường khí quyển:
+Trái đất có môi trường khí quyển bao quanh, trong khi mặt trăng không có.</description>
+    </item>
+    <item>
+      <title>Tại sao cây xanh lại có lá màu xanh?</title>
+      <link>/2023/11/tai-sao-cay-xanh-lai-co-la-mau-xanh.html</link>
+      <pubDate>Mon, 06 Nov 2023 12:01:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-cay-xanh-lai-co-la-mau-xanh.html</guid>
+      <description>Khi nói đến cây xanh, hình ảnh đầu tiên mà chúng ta nghĩ đến thường là những chiếc lá màu xanh tươi. Nhưng tại sao cây lại có lá màu xanh? Để hiểu điều này, chúng ta cần xem xét quá trình phức tạp trong cây gọi là quang hợp, cũng như cấu trúc và chức năng của màu xanh cây lá. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Quang hợp - Quá trình tạo năng lượng:</description>
+    </item>
+    <item>
+      <title>Tại sao nước sôi ở 100 độ C?</title>
+      <link>/2023/11/tai-sao-nuoc-soi-o-100-o-c.html</link>
+      <pubDate>Mon, 06 Nov 2023 09:10:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-nuoc-soi-o-100-o-c.html</guid>
+      <description>Nước sôi ở 100 độ C là một trong những hiện tượng tự nhiên đơn giản mà chúng ta thường gặp hàng ngày. Tuy nhiên, để hiểu tại sao nước sôi ở nhiệt độ 100 độ C, chúng ta cần nhìn vào các khía cạnh khoa học đằng sau điều này. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Áp suất không khí:
+Một trong những yếu tố quan trọng nhất để nước sôi ở 100 độ C là áp suất không khí.</description>
+    </item>
+    <item>
+      <title>Vì sao mưa lại có màu cầu vồng?</title>
+      <link>/2023/11/vi-sao-mua-lai-co-mau-cau-vong.html</link>
+      <pubDate>Mon, 06 Nov 2023 09:06:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-mua-lai-co-mau-cau-vong.html</guid>
+      <description>Mưa là một hiện tượng tự nhiên thường xảy ra khắp nơi trên trái đất, và cầu vồng thường xuất hiện sau mưa khi ánh nắng mặt trời hiện ra. Nhưng vì sao mưa lại có màu cầu vồng? Để hiểu điều này, chúng ta cần xem xét sự kết hợp của ánh sáng và nước trong không khí. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Gốc của cầu vồng:
+Cầu vồng là kết quả của sự phân tán ánh sáng khi nó đi qua các giọt nước trong không khí.</description>
+    </item>
+    <item>
+      <title>Tại sao con người cần ngủ?</title>
+      <link>/2023/11/tai-sao-con-nguoi-can-ngu.html</link>
+      <pubDate>Sun, 05 Nov 2023 15:36:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-con-nguoi-can-ngu.html</guid>
+      <description>Ngủ là một phần quan trọng của cuộc sống hàng ngày của chúng ta, nhưng tại sao con người cần ngủ? Hãy cùng tìm hiểu lý do mà giấc ngủ là một yếu tố quan trọng đối với sức khỏe và cách chúng ta hoạt động hàng ngày. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Phục hồi cơ thể:
+Một trong những lý do quan trọng nhất mà con người cần ngủ là để phục hồi cơ thể.</description>
+    </item>
+    <item>
+      <title>Vì sao bầu trời là màu xanh?</title>
+      <link>/2023/11/vi-sao-bau-troi-la-mau-xanh.html</link>
+      <pubDate>Sun, 05 Nov 2023 15:32:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-bau-troi-la-mau-xanh.html</guid>
+      <description>Khi nhìn lên bầu trời vào một ngày trong lúc trời đang trong tình hình bình thường, bạn sẽ thấy rằng màu chủ đạo của nó là xanh. Tuy nhiên, tại sao bầu trời lại có màu xanh? Chúng ta hãy cùng khám phá lý do sau sự kỳ diệu này. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Phản xạ ánh sáng:
+Màu xanh của bầu trời có nguồn gốc từ sự phản xạ ánh sáng mặt trời.</description>
+    </item>
+    <item>
+      <title>Tại sao trọng lực làm cho mọi thứ rơi xuống?</title>
+      <link>/2023/11/tai-sao-trong-luc-lam-cho-moi-thu-roi.html</link>
+      <pubDate>Sun, 05 Nov 2023 15:27:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-trong-luc-lam-cho-moi-thu-roi.html</guid>
+      <description>Chúng ta đã quen thuộc với hiện tượng mọi thứ trên Trái Đất đều &amp;ldquo;rơi&amp;rdquo; xuống theo hướng của năng lực gọi là trọng lực. Nhưng tại sao trọng lực lại tồn tại và làm cho mọi thứ rơi xuống? Hãy cùng tìm hiểu về nguyên lý cơ bản của trọng lực và cách nó ảnh hưởng đến cuộc sống của chúng ta. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Trọng lực là gì?</description>
+    </item>
+    <item>
+      <title>Vì sao nước biển lại mặn?</title>
+      <link>/2023/11/vi-sao-nuoc-bien-lai-man.html</link>
+      <pubDate>Sun, 05 Nov 2023 15:14:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-nuoc-bien-lai-man.html</guid>
+      <description>Nước biển, mặc dù tạo nên hơn 70% diện tích trái đất, nhưng đối với con người, nó thường không thể uống trực tiếp do độ mặn quá cao. Mặn đến đâu và tại sao nước biển lại mặn? Chúng ta hãy cùng tìm hiểu. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Natri và clorua (NaCl):
+Nguyên tố natri (Na) và clorua (Cl) đóng vai trò quan trọng trong việc làm nước biển mặn.</description>
+    </item>
+    <item>
+      <title>Tại sao bầu trời đêm lại có những ngôi sao sáng lấp lánh?</title>
+      <link>/2023/11/tai-sao-bau-troi-em-lai-co-nhung-ngoi.html</link>
+      <pubDate>Sun, 05 Nov 2023 15:09:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-bau-troi-em-lai-co-nhung-ngoi.html</guid>
+      <description>Bầu trời đêm là một tác phẩm nghệ thuật tự nhiên vô cùng ấn tượng, và một phần quan trọng của vẻ đẹp này đến từ những ngôi sao sáng lấp lánh trên bầu trời. Nhìn lên trời đêm, chúng ta có thể thấy hàng triệu ngôi sao đang tỏa sáng, và nhiều người luôn tự hỏi tại sao chúng lại tồn tại và sáng lấp lánh như vậy. Hãy cùng tìm hiểu lý do tại sao bầu trời đêm lại rực rỡ bởi những ngôi sao này.</description>
+    </item>
+    <item>
+      <title>Vì Sao Trái Đất Có Bốn Mùa? Sự Thay Đổi Kỳ Diệu Trên Hành Tinh Của Chúng Ta</title>
+      <link>/2023/11/vi-sao-trai-at-co-bon-mua-su-thay-oi-ky.html</link>
+      <pubDate>Sat, 04 Nov 2023 15:35:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-trai-at-co-bon-mua-su-thay-oi-ky.html</guid>
+      <description>Trái Đất, ngôi nhà chung của chúng ta, được biểu đạt qua bốn mùa trong một năm - xuân, hạ, thu và đông. Sự thay đổi này tạo ra những cảnh quan thiên nhiên độc đáo và cung cấp cho cuộc sống trên hành tinh chúng ta sự đa dạng. Nhưng tại sao Trái Đất lại có bốn mùa? Trong bài viết này, chúng ta sẽ khám phá lý do vì sao mùa được tạo ra và cách chúng ảnh hưởng đến cuộc sống hàng ngày của chúng ta.</description>
+    </item>
+    <item>
+      <title>Tại Sao Mặt Trời Mọc Từ Phía Đông và Lặn Từ Phía Tây?</title>
+      <link>/2023/11/tai-sao-mat-troi-moc-tu-phia-ong-va-lan.html</link>
+      <pubDate>Sat, 04 Nov 2023 15:31:00 +0700</pubDate>
+      <guid>/2023/11/tai-sao-mat-troi-moc-tu-phia-ong-va-lan.html</guid>
+      <description>Tại Sao Mặt Trời Mọc Từ Phía Đông và Lặn Từ Phía Tây? Bí Mật Của Chuyển Động Hàng Ngày Của Mặt Trời
+Mặt Trời, ngôi sao trung tâm của hệ Mặt Trời chúng ta, có vai trò quan trọng trong cuộc sống trên Trái Đất. Một trong những hiện tượng thiên nhiên đáng kinh ngạc là cách mặt trời mọc từ phía đông và lặn từ phía tây hàng ngày.</description>
+    </item>
+    <item>
+      <title>Vì Sao Trái Đất Tròn? Bí Ẩn Của Hình Dạng Hành Tinh Chúng Ta</title>
+      <link>/2023/11/vi-sao-trai-at-tron-bi-cua-hinh-dang.html</link>
+      <pubDate>Sat, 04 Nov 2023 11:52:00 +0700</pubDate>
+      <guid>/2023/11/vi-sao-trai-at-tron-bi-cua-hinh-dang.html</guid>
+      <description>Hình dạng của Trái Đất, một hành tinh mà chúng ta gọi là ngôi nhà, đã trở thành một vấn đề thú vị trong khoa học và lý thuyết của ngày nay. Và câu hỏi &amp;ldquo;Vì sao trái đất tròn?&amp;rdquo; đã được đặt ra từ hàng thế kỷ. Trong bài viết này, chúng ta sẽ khám phá những nguyên nhân và bằng chứng khoa học cho sự tròn của hành tinh mà chúng ta sống.</description>
+    </item>
+    <item>
+      <title>Ai là người đứng đầu Tổng công ty SpaceX?</title>
+      <link>/2023/11/ai-la-nguoi-ung-au-tong-cong-ty-spacex.html</link>
+      <pubDate>Sat, 04 Nov 2023 11:37:00 +0700</pubDate>
+      <guid>/2023/11/ai-la-nguoi-ung-au-tong-cong-ty-spacex.html</guid>
+      <description>SpaceX, viết tắt của Space Exploration Technologies Corp., là một trong những công ty hàng đầu trong lĩnh vực công nghiệp hàng không và không gian. Nhưng ai là người đứng đầu và là tâm huyết lãnh đạo của công ty này? Trong bài viết này, chúng ta sẽ tìm hiểu về người đứng đầu Tổng Công Ty SpaceX, tỷ phú, doanh nhân kiêm nhà sáng lập Elon Musk. Cùng TruongThanh.</description>
+    </item>
+    <item>
+      <title>Tổng thống Pháp hiện tại là ai?</title>
+      <link>/2023/11/tong-thong-phap-hien-tai-la-ai.html</link>
+      <pubDate>Sat, 04 Nov 2023 09:35:00 +0700</pubDate>
+      <guid>/2023/11/tong-thong-phap-hien-tai-la-ai.html</guid>
+      <description>Tổng Thống Pháp Hiện Tại: Những Thay Đổi Và Vị Thế Mới.
+Tổng thống Pháp, là một trong những vị trí quan trọng nhất trong chính trị nước này, luôn thu hút sự quan tâm của người dân trong và ngoài Pháp. Vào thời điểm hiện tại, Tổng thống Pháp là ai và cơ cấu quyền lực của vị trí này như thế nào? Hãy cùng tìm hiểu.Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Ai Đã Phát Minh Ra Bóng Đèn?</title>
+      <link>/2023/11/ai-phat-minh-ra-bong-en.html</link>
+      <pubDate>Sat, 04 Nov 2023 09:31:00 +0700</pubDate>
+      <guid>/2023/11/ai-phat-minh-ra-bong-en.html</guid>
+      <description>Bóng đèn, một thiết bị điện quen thuộc mà chúng ta thường bật khi cần ánh sáng trong phòng, đã thay đổi cuộc sống của chúng ta một cách đáng kể. Nhưng bạn đã bao giờ tự hỏi ai đã phát minh ra bóng đèn không? Trong bài viết này, chúng ta sẽ tìm hiểu về người đã tạo ra công cụ này quen thuộc. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Nhân Vật Chính trong Phim &#39;Người Nhện&#39; là Ai?</title>
+      <link>/2023/11/nhan-vat-chinh-trong-phim-nguoi-nhen-la.html</link>
+      <pubDate>Fri, 03 Nov 2023 16:01:00 +0700</pubDate>
+      <guid>/2023/11/nhan-vat-chinh-trong-phim-nguoi-nhen-la.html</guid>
+      <description>&amp;ldquo;Người Nhện&amp;rdquo; là một trong những siêu anh hùng nổi tiếng và phổ biến nhất trong vũ trụ Marvel. Nhân vật chính của câu chuyện, Peter Parker, đã trở thành biểu tượng và được đặc biệt yêu thích trong văn hóa pop và truyện tranh. Trong bài viết này, chúng ta sẽ tìm hiểu về nhân vật chính trong phim &amp;ldquo;Người Nhện&amp;rdquo; và những phiên bản khác nhau của Peter Parker trên màn ảnh.</description>
+    </item>
+    <item>
+      <title>Người Đứng Đầu Liên Hợp Quốc: Tổng Thư Ký Hiện Tại và Vai Trò Quan Trọng</title>
+      <link>/2023/11/nguoi-ung-au-lien-hop-quoc-tong-thu-ky.html</link>
+      <pubDate>Fri, 03 Nov 2023 15:57:00 +0700</pubDate>
+      <guid>/2023/11/nguoi-ung-au-lien-hop-quoc-tong-thu-ky.html</guid>
+      <description>Liên Hợp Quốc (United Nations - UN) là tổ chức quốc tế lớn nhất và quan trọng nhất trên thế giới, với nhiệm vụ thúc đẩy hòa bình, an ninh quốc tế, phát triển và hợp tác toàn cầu. Tổng Thư Ký Liên Hợp Quốc, người đứng đầu tổ chức này, chịu trách nhiệm quản lý và điều hành công việc hàng ngày của Liên Hợp Quốc. Trong bài viết này, chúng ta sẽ tìm hiểu về người đứng đầu Liên Hợp Quốc hiện tại và vai trò quan trọng của họ.</description>
+    </item>
+    <item>
+      <title>Bí ẩn lãnh đạo Nước Nga Hiện Tại: Vladimir Putin và Tình Hình Chính Trị</title>
+      <link>/2023/11/bi-lanh-ao-nuoc-nga-hien-tai-vladimir.html</link>
+      <pubDate>Fri, 03 Nov 2023 15:53:00 +0700</pubDate>
+      <guid>/2023/11/bi-lanh-ao-nuoc-nga-hien-tai-vladimir.html</guid>
+      <description>Nước Nga, một quốc gia có diện tích rộng lớn và lịch sử phức tạp, luôn thu hút sự quan tâm của thế giới đối với tình hình chính trị và nhà lãnh đạo của nó. Trong suốt một thập kỷ qua, tên tuổi Vladimir Putin đã trở thành biểu tượng của nước Nga, và ông đã đảm đương nhiệm vụ tổng thống từ năm 1999 đến nay. Tuy nhiên, tình hình chính trị Nga không phải lúc nào cũng dễ hiểu, và tình hình lãnh đạo hiện tại của quốc gia này vẫn đầy bí ẩn.</description>
+    </item>
+    <item>
+      <title>Những Nhà Khoa Học Máy Tính Nổi Tiếng Trong Lịch Sử</title>
+      <link>/2023/11/nhung-nha-khoa-hoc-may-tinh-noi-tieng.html</link>
+      <pubDate>Fri, 03 Nov 2023 15:16:00 +0700</pubDate>
+      <guid>/2023/11/nhung-nha-khoa-hoc-may-tinh-noi-tieng.html</guid>
+      <description>Khoa học máy tính là một lĩnh vực quan trọng và đang phát triển nhanh chóng trong thế kỷ 21. Với sự ra đời của máy tính và internet, nó đã thúc đẩy sự phát triển và cách thức chúng ta tương tác với công nghệ. Trong bài viết này, chúng ta sẽ điểm qua một số những người nổi tiếng trong lĩnh vực khoa học máy tính. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Nhà Lãnh Đạo Nước Cộng Hòa Séc Là Ai?</title>
+      <link>/2023/11/nha-lanh-ao-nuoc-cong-hoa-sec-la-ai.html</link>
+      <pubDate>Thu, 02 Nov 2023 19:27:00 +0700</pubDate>
+      <guid>/2023/11/nha-lanh-ao-nuoc-cong-hoa-sec-la-ai.html</guid>
+      <description>Nước Cộng hòa Séc, một quốc gia nằm ở Trung Âu, có một chế độ chính trị dựa trên hình thức cộng hòa, trong đó tổng thống là một trong những vị trí quan trọng nhất trong hệ thống lãnh đạo. Trong bài viết này, chúng ta sẽ tìm hiểu về người đang giữ vị trí tổng thống và nhà lãnh đạo hiện tại của Cộng hòa Séc. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Nhân Vật Chính Trong Loạt Phim &#39;Harry Potter&#39; Là Ai?</title>
+      <link>/2023/11/nhan-vat-chinh-trong-loat-phim-harry.html</link>
+      <pubDate>Thu, 02 Nov 2023 19:22:00 +0700</pubDate>
+      <guid>/2023/11/nhan-vat-chinh-trong-loat-phim-harry.html</guid>
+      <description>Loạt phim &amp;ldquo;Harry Potter&amp;rdquo; là một trong những bộ phim phù hợp với mọi lứa tuổi và đã tạo nên một hiện tượng trong nền điện ảnh thế giới. Với thế giới phép thuật đầy phấn khích và câu chuyện về cuộc hành trình của một thiếu niên tài năng, câu hỏi về nhân vật chính trong loạt phim này luôn khiến người hâm mộ tò mò. Trong bài viết này, chúng ta sẽ tìm hiểu về nhân vật chính của loạt phim &amp;ldquo;Harry Potter.</description>
+    </item>
+    <item>
+      <title>Đạo Diễn Phim &#39;Titanic&#39; Là Ai?</title>
+      <link>/2023/11/ao-dien-phim-titanic-la-ai.html</link>
+      <pubDate>Thu, 02 Nov 2023 19:19:00 +0700</pubDate>
+      <guid>/2023/11/ao-dien-phim-titanic-la-ai.html</guid>
+      <description>&amp;ldquo;Titanic&amp;rdquo; là một trong những bộ phim nổi tiếng và ăn khách nhất mọi thời đại, đã đạt được thành công vượt bậc và đạt nhiều giải thưởng danh giá. Phim này được biết đến không chỉ với câu chuyện tình yêu đầy cảm động mà còn với cách thực hiện và đạo diễn tài năng. Trong bài viết này, chúng ta sẽ tìm hiểu về đạo diễn của bộ phim &amp;ldquo;Titanic.</description>
+    </item>
+    <item>
+      <title>Ai Là Người Sáng Lập Google?</title>
+      <link>/2023/11/ai-la-nguoi-sang-lap-google.html</link>
+      <pubDate>Thu, 02 Nov 2023 19:16:00 +0700</pubDate>
+      <guid>/2023/11/ai-la-nguoi-sang-lap-google.html</guid>
+      <description>Google, công ty công nghệ hàng đầu thế giới và công ty mẹ của trình duyệt tìm kiếm phổ biến nhất trên thế giới, đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta. Tuy nhiên, ít người biết rằng câu hỏi &amp;ldquo;Ai là người sáng lập Google?&amp;rdquo; có một câu trả lời đầy hấp dẫn. Trong bài viết này, chúng ta sẽ tìm hiểu về người sáng lập Google và hành trình của họ trong việc xây dựng một trong những công ty công nghệ lớn mạnh nhất thế giới.</description>
+    </item>
+    <item>
+      <title>Người Sáng Lập Microsoft Là Ai?</title>
+      <link>/2023/11/nguoi-sang-lap-microsoft-la-ai.html</link>
+      <pubDate>Thu, 02 Nov 2023 15:13:00 +0700</pubDate>
+      <guid>/2023/11/nguoi-sang-lap-microsoft-la-ai.html</guid>
+      <description>Microsoft, tập đoàn công nghệ lớn mạnh với nhiều sản phẩm phổ biến như hệ điều hành Windows, bộ ứng dụng Office, và nhiều dự án công nghệ khác, đã có một ảnh hưởng sâu rộng đối với cuộc sống hàng ngày của hàng tỷ người trên khắp thế giới. Nhưng bạn đã bao giờ tự hỏi ai là người sáng lập Microsoft và làm thế nào họ đã đưa tập đoàn này trở thành một biểu tượng trong ngành công nghiệp công nghệ?</description>
+    </item>
+    <item>
+      <title>Ai Là Người Đầu Tiên Bước Chân Lên Mặt Trăng?</title>
+      <link>/2023/11/ai-la-nguoi-au-tien-buoc-chan-len-mat.html</link>
+      <pubDate>Thu, 02 Nov 2023 15:09:00 +0700</pubDate>
+      <guid>/2023/11/ai-la-nguoi-au-tien-buoc-chan-len-mat.html</guid>
+      <description>Một trong những sự kiện vĩ đại nhất trong lịch sử thám hiểm không gian là chuyến bay Apollo 11 của Hoa Kỳ đến mặt trăng vào năm 1969. Đây là một bước ngoặt đầy quan trọng trong sự phát triển của con người và sự nghiên cứu vũ trụ. Vậy, ai là người đầu tiên bước chân lên mặt trăng? Hãy cùng khám phá trong bài viết này. Cùng TruongThanh.</description>
+    </item>
+    <item>
+      <title>Ai Là Người Nổi Tiếng Nhất Trong Lịch Sử?</title>
+      <link>/2023/11/ai-la-nguoi-noi-tieng-nhat-trong-lich-su.html</link>
+      <pubDate>Thu, 02 Nov 2023 15:02:00 +0700</pubDate>
+      <guid>/2023/11/ai-la-nguoi-noi-tieng-nhat-trong-lich-su.html</guid>
+      <description>Câu hỏi về ai là người nổi tiếng nhất trong lịch sử là một câu hỏi phổ biến và khá phiến diện. Lịch sử đã chứng kiến nhiều cá nhân xuất sắc có tầm ảnh hưởng lớn đến thế giới, và lựa chọn người nổi tiếng nhất có thể phụ thuộc vào góc nhìn và tiêu chí mà bạn sử dụng. Trong bài viết này, chúng ta sẽ nêu ra một số tên tuổi nổi tiếng mà nhiều người thường xem là những cá nhân nổi bật trong lịch sử.</description>
+    </item>
+    <item>
+      <title>Người Đứng Đầu Tập đoàn Apple Là Ai?</title>
+      <link>/2023/11/nguoi-ung-au-tap-oan-apple-la-ai.html</link>
+      <pubDate>Thu, 02 Nov 2023 14:53:00 +0700</pubDate>
+      <guid>/2023/11/nguoi-ung-au-tap-oan-apple-la-ai.html</guid>
+      <description>Apple Inc., một trong những tập đoàn công nghệ hàng đầu trên thế giới, đã sáng tạo ra nhiều sản phẩm nổi tiếng như iPhone, iPad, Macbook và Apple Watch. Một trong những câu hỏi thường được đặt ra là ai là người đứng đầu tập đoàn Apple và đóng vai trò quan trọng trong việc hướng dẫn và phát triển tập đoàn này. Trong bài viết này, chúng ta sẽ tìm hiểu về người đứng đầu tập đoàn Apple và tầm ảnh hưởng của họ đối với công ty và ngành công nghiệp công nghệ.</description>
+    </item>
+    <item>
+      <title>Người Sáng Lập Facebook Là Ai?</title>
+      <link>/2023/11/nguoi-sang-lap-facebook-la-ai.html</link>
+      <pubDate>Thu, 02 Nov 2023 14:48:00 +0700</pubDate>
+      <guid>/2023/11/nguoi-sang-lap-facebook-la-ai.html</guid>
+      <description>Facebook, mạng xã hội lớn nhất và phổ biến nhất trên thế giới, đã thay đổi cách chúng ta kết nối, chia sẻ và giao tiếp với người khác. Tuy nhiên, bạn có bao giờ tự hỏi ai là người sáng lập nền tảng xã hội này không? Trong bài viết này, chúng ta sẽ khám phá câu chuyện đằng sau người sáng lập Facebook và hành trình của họ trong việc tạo ra một trang web xã hội đột phá.</description>
+    </item>
+    <item>
+      <title>Tổng thống Hoa Kỳ Hiện Tại Là Ai?</title>
+      <link>/2023/11/tong-thong-hoa-ky-hien-tai-la-ai.html</link>
+      <pubDate>Thu, 02 Nov 2023 14:35:00 +0700</pubDate>
+      <guid>/2023/11/tong-thong-hoa-ky-hien-tai-la-ai.html</guid>
+      <description>Một trong những vị trí quan trọng nhất trên thế giới là chức vụ Tổng thống Hoa Kỳ. Người nắm giữ vị trí này không chỉ là lãnh đạo của một quốc gia mạnh mẽ và đa dạng mà còn có ảnh hưởng toàn cầu. Vậy, Tổng thống Hoa Kỳ hiện tại là ai? Chúng ta sẽ khám phá điều này trong bài viết dưới đây. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Top 15 đôi giày Sneaker Nike Air Force 1: Biểu tượng Thời Trang Vượt Thời Gian</title>
+      <link>/2023/11/top-15-oi-giay-sneaker-nike-air-force-1.html</link>
+      <pubDate>Thu, 02 Nov 2023 14:19:00 +0700</pubDate>
+      <guid>/2023/11/top-15-oi-giay-sneaker-nike-air-force-1.html</guid>
+      <description>Giày Sneaker Nike Air Force 1 (AF1) là một biểu tượng thời trang thể thao đã tồn tại hơn 40 năm và vẫn là một trong những đôi giày được yêu thích và ưa chuộng nhất trên toàn thế giới. Trong bài viết này, chúng ta sẽ đánh giá về giày Nike Air Force 1 và tìm hiểu tại sao chúng luôn giữ vững vị trí của mình trong thế giới thời trang.</description>
+    </item>
+    <item>
+      <title>Đánh giá Cặp Dầu Gội Xả Biotin Collagen Chống Rụng và Kích Thích Mọc Tóc Siêu Mềm Mượt</title>
+      <link>/2023/11/anh-gia-cap-dau-goi-xa-biotin-collagen.html</link>
+      <pubDate>Wed, 01 Nov 2023 17:53:00 +0700</pubDate>
+      <guid>/2023/11/anh-gia-cap-dau-goi-xa-biotin-collagen.html</guid>
+      <description>Sự chăm sóc tóc luôn luôn là một phần quan trọng của cuộc sống hàng ngày. Một mái tóc mềm mượt và khỏe mạnh không chỉ tạo ra một vẻ đẹp tự nhiên mà còn là nguồn tự tin lớn cho nhiều người. Cặp dầu gội và xả Biotin Collagen chống rụng và kích thích mọc tóc được biết đến như một giải pháp hoàn hảo để cải thiện tình trạng tóc.</description>
+    </item>
+    <item>
+      <title>Đánh giá Đèn Pin XHP Siêu Sáng Cầm Tay: Đối tượng hoàn hảo cho những tình huống khẩn cấp và ngoại trời</title>
+      <link>/2023/11/anh-gia-en-pin-xhp-sieu-sang-cam-tay-oi.html</link>
+      <pubDate>Wed, 01 Nov 2023 17:40:00 +0700</pubDate>
+      <guid>/2023/11/anh-gia-en-pin-xhp-sieu-sang-cam-tay-oi.html</guid>
+      <description>Đèn pin XHP siêu sáng cầm tay là một thiết bị không thể thiếu trong mọi hộ gia đình và đặc biệt quan trọng trong các tình huống khẩn cấp hoặc khi bạn cần một nguồn sáng mạnh tại nơi không có nguồn điện. Trong bài viết này, chúng ta sẽ đánh giá đèn pin XHP siêu sáng cầm tay, và tìm hiểu tại sao nó trở thành sự lựa chọn hàng đầu của nhiều người.</description>
+    </item>
+    <item>
+      <title>Đánh giá Giày Air Force 1 Canvas Navy: Phiên bản mới cho tín đồ sneaker</title>
+      <link>/2023/11/anh-gia-giay-air-force-1-canvas-navy.html</link>
+      <pubDate>Wed, 01 Nov 2023 17:33:00 +0700</pubDate>
+      <guid>/2023/11/anh-gia-giay-air-force-1-canvas-navy.html</guid>
+      <description>Giày Air Force 1 của Nike đã tồn tại trong thế giới thời trang thể thao hơn ba thập kỷ, và chúng vẫn là một biểu tượng vượt thời gian. Một phiên bản mới đã xuất hiện, và chúng ta sẽ cùng nhau đánh giá đôi giày Air Force 1 Canvas Navy trong bài viết này. Cùng TruongThanh.info tìm hiểu bạn nhé.
+Thiết kế và Ngoại hình
+Air Force 1 Canvas Navy thể hiện sự kết hợp giữa phong cách thể thao và vẻ đẹp thanh lịch.</description>
+    </item>
+    <item>
+      <title>Đánh giá Balo Adidas Attitude Classic Unisex IJ5639: Sự Kết Hợp Hoàn Hảo Giữa Thời Trang và Sự Tiện Lợi</title>
+      <link>/2023/10/anh-gia-balo-adidas-attitude-classic.html</link>
+      <pubDate>Tue, 31 Oct 2023 18:50:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-balo-adidas-attitude-classic.html</guid>
+      <description>Balo là một phần không thể thiếu của cuộc sống hiện đại, không chỉ để mang theo đồ cá nhân mà còn để thể hiện phong cách và cái tôi của bạn. Balo Adidas Attitude Classic Unisex IJ5639 đã nổi bật trong thế giới balo với sự kết hợp hoàn hảo giữa thời trang và sự tiện lợi. Trong bài đánh giá này, chúng ta sẽ tìm hiểu về chi tiết của balo Adidas Attitude Classic Unisex IJ5639 và lý do tại sao nó có thể là sự lựa chọn hoàn hảo cho bạn.</description>
+    </item>
+    <item>
+      <title>Đánh giá Tai Nghe Có Mic OVANN X1-S: Âm Thanh Chất Lượng và Thoải Mái Trong Tầm Tài Chính</title>
+      <link>/2023/10/anh-gia-tai-nghe-co-mic-ovann-x1-s-am.html</link>
+      <pubDate>Tue, 31 Oct 2023 18:42:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-tai-nghe-co-mic-ovann-x1-s-am.html</guid>
+      <description>Tai nghe là một phần không thể thiếu trong cuộc sống hàng ngày của nhiều người, và việc tìm kiếm một bộ tai nghe có mic tốt mà vẫn nằm trong tầm tài chính có thể là một thách thức. Tai nghe OVANN X1-S đã xuất hiện như một giải pháp hấp dẫn cho những người đang tìm kiếm tai nghe chất lượng với giá cả hợp lý. Trong bài đánh giá này, chúng ta sẽ tìm hiểu về chi tiết của tai nghe OVANN X1-S và tại sao nó có thể là lựa chọn tốt cho bạn.</description>
+    </item>
+    <item>
+      <title>Đánh giá Đồng Hồ Thể Thao Nam GA2100 Onetime: Sự Kết Hợp Độc Đáo Giữa Thời Trang và Công Nghệ</title>
+      <link>/2023/10/anh-gia-ong-ho-thao-nam-ga2100-onetime.html</link>
+      <pubDate>Tue, 31 Oct 2023 18:34:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-ong-ho-thao-nam-ga2100-onetime.html</guid>
+      <description>Đồng hồ thể thao ngày càng trở thành một phần không thể thiếu trong thế giới thời trang nam. Sự kết hợp giữa thiết kế tinh tế và tính năng công nghệ đã tạo nên những sản phẩm độc đáo và thú vị. Trong bài đánh giá này, chúng ta sẽ tìm hiểu về đồng hồ thể thao nam GA2100 Onetime và tại sao nó nổi bật trong thế giới đồng hồ thể thao.</description>
+    </item>
+    <item>
+      <title>Đánh giá Máy Xịt Thơm Phòng Tự Động: Không Gian Thơm Mát Suốt Ngày</title>
+      <link>/2023/10/anh-gia-may-xit-thom-phong-tu-ong-khong.html</link>
+      <pubDate>Tue, 31 Oct 2023 17:39:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-may-xit-thom-phong-tu-ong-khong.html</guid>
+      <description>Việc tạo ra một không gian thơm mát và dễ chịu trong ngôi nhà hoặc văn phòng là điều quan trọng để cải thiện tâm trạng và sự thoải mái. Máy xịt thơm phòng tự động đã trở thành một phần không thể thiếu trong việc tạo ra không gian thơm mát. Trong bài đánh giá này, chúng ta sẽ tìm hiểu về máy xịt thơm phòng tự động và lý do tại sao nó có thể là một lựa chọn tốt để làm cho môi trường sống của bạn thơm mát và dễ chịu.</description>
+    </item>
+    <item>
+      <title>Đánh giá Son Tint Bóng &#34;Into You&#34;: Vẻ Đẹp Lấp Lánh của Đôi Môi</title>
+      <link>/2023/10/anh-gia-son-tint-bong-into-you-ve-ep.html</link>
+      <pubDate>Tue, 31 Oct 2023 17:18:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-son-tint-bong-into-you-ve-ep.html</guid>
+      <description>Son tint bóng đã trở thành một xu hướng không thể thiếu trong làm đẹp hiện đại. Một sản phẩm đáng chú ý trong thế giới của son tint bóng chính là &amp;ldquo;Into You.&amp;rdquo; Trong bài đánh giá này, chúng ta sẽ tìm hiểu chi tiết về son tint bóng &amp;ldquo;Into You&amp;rdquo; và lý do tại sao nó có thể là lựa chọn hoàn hảo cho những người muốn tạo vẻ đẹp lấp lánh cho đôi môi của mình.</description>
+    </item>
+    <item>
+      <title>Đánh giá Tủ Lạnh Mini SAST: Sự Tiện Lợi Trong Tầm Tay</title>
+      <link>/2023/10/anh-gia-tu-lanh-mini-sast-su-tien-loi.html</link>
+      <pubDate>Tue, 31 Oct 2023 16:47:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-tu-lanh-mini-sast-su-tien-loi.html</guid>
+      <description>Trong cuộc sống hiện đại, tủ lạnh đóng vai trò quan trọng trong việc bảo quản thực phẩm và đồ uống. Tuy nhiên, đôi khi, bạn có thể cần một giải pháp nhỏ gọn hơn, đặc biệt khi bạn sống một mình hoặc trong không gian hạn chế. Tủ lạnh mini SAST đã trở thành một sự lựa chọn phổ biến để giải quyết nhu cầu này. Trong bài đánh giá này, chúng ta sẽ khám phá chi tiết về tủ lạnh mini SAST và tại sao nó có thể là sự tiện lợi trong tầm tay của bạn.</description>
+    </item>
+    <item>
+      <title>Đánh giá Loa Bluetooth Mini Không Dây S10: Âm Thanh Siêu Nhỏ, Sức Mạnh Siêu Lớn</title>
+      <link>/2023/10/anh-gia-loa-bluetooth-mini-khong-day.html</link>
+      <pubDate>Tue, 31 Oct 2023 16:27:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-loa-bluetooth-mini-khong-day.html</guid>
+      <description>Công nghệ loa Bluetooth đã thay đổi cách chúng ta trải nghiệm âm nhạc. Loa Bluetooth mini không dây S10 là một ví dụ tiêu biểu về sự phát triển của công nghệ loa di động. Trong bài đánh giá này, chúng ta sẽ khám phá chi tiết về loa Bluetooth S10 và tại sao nó có thể là lựa chọn tuyệt vời cho việc trải nghiệm âm nhạc di động.</description>
+    </item>
+    <item>
+      <title>Đánh giá Son Kem Lì Siêu Mịn Môi Merzy Noir In The Mellow Tint: Vẻ Đẹp Tự Nhiên Và Quyến Rũ</title>
+      <link>/2023/10/anh-gia-son-kem-li-sieu-min-moi-merzy.html</link>
+      <pubDate>Tue, 31 Oct 2023 16:19:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-son-kem-li-sieu-min-moi-merzy.html</guid>
+      <description>Thiết kế làm đẹp và trang điểm luôn thay đổi theo thời gian, và hiện nay, son kem lì siêu mịn môi đang là một xu hướng phổ biến. Merzy Noir In The Mellow Tint, một sản phẩm trang điểm đến từ Hàn Quốc, đã nhanh chóng thu hút sự quan tâm của những người yêu thời trang và làm đẹp. Trong bài viết này, chúng ta sẽ đánh giá chi tiết về Merzy Noir In The Mellow Tint và khám phá vì sao nó nổi bật với sự tự nhiên và quyến rũ.</description>
+    </item>
+    <item>
+      <title>Đánh giá Dụng Cụ Tập Cơ Hàm CYBEX - JAWLINER: Đường Cong Hoàn Hảo Cho Cơ Hàm</title>
+      <link>/2023/10/anh-gia-dung-cu-tap-co-ham-cybex.html</link>
+      <pubDate>Tue, 31 Oct 2023 13:46:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-dung-cu-tap-co-ham-cybex.html</guid>
+      <description>Việc có một khuôn mặt sắc sảo và cơ hàm đầy đặn là điều mà nhiều người ước mơ. Tuy nhiên, để đạt được kết quả này, việc tập luyện cơ hàm là một phần không thể thiếu. CYBEX đã cho ra đời sản phẩm CYBEX - JAWLINER, một dụng cụ tập cơ hàm được thiết kế để giúp bạn đạt được đường cong hoàn hảo cho cơ hàm của mình.</description>
+    </item>
+    <item>
+      <title>Đánh giá Sáp Vuốt Tóc Nam REUZEL Extreme Hold Matte: Sự Lựa Chọn Hoàn Hảo cho Phong Cách Đỉnh Cao</title>
+      <link>/2023/10/anh-gia-sap-vuot-toc-nam-reuzel-extreme.html</link>
+      <pubDate>Tue, 31 Oct 2023 13:37:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-sap-vuot-toc-nam-reuzel-extreme.html</guid>
+      <description>Phong cách tóc luôn đóng vai trò quan trọng trong việc thể hiện cá nhân và thể hiện phong cách cá nhân. Và một trong những sản phẩm trang điểm không thể thiếu để tạo nên kiểu tóc hoàn hảo là sáp vuốt tóc. Sáp REUZEL Extreme Hold Matte đã nổi tiếng với khả năng tạo nên kiểu tóc đỉnh cao và bền đẹp. Trong bài viết này, chúng ta sẽ đánh giá chi tiết về sản phẩm này và khám phá tại sao nó lại là sự lựa chọn hoàn hảo cho phong cách đỉnh cao.</description>
+    </item>
+    <item>
+      <title>Đánh giá Giày thể thao Nam - Nữ Biti&#39;s Hunter X 1.0 Festive Armor Grey: Kết Hợp Hoàn Hảo Giữa Phong Cách Và Sự Thoải Mái</title>
+      <link>/2023/10/anh-gia-giay-thao-nam-nu-bitis-hunter-x.html</link>
+      <pubDate>Tue, 31 Oct 2023 13:31:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-giay-thao-nam-nu-bitis-hunter-x.html</guid>
+      <description>Giày thể thao không chỉ đơn giản là một đôi giày, mà còn là biểu tượng của phong cách và sự thoải mái trong cuộc sống hàng ngày. Biti&amp;rsquo;s, một thương hiệu nổi tiếng trong ngành giày thể thao tại Việt Nam, đã cho ra đời dòng sản phẩm Biti&amp;rsquo;s Hunter X 1.0 Festive Armor Grey. Trải qua bài viết này, chúng ta sẽ cùng đánh giá chi tiết đôi giày này và khám phá những gì làm cho chúng đặc biệt.</description>
+    </item>
+    <item>
+      <title>Đánh giá Son Kem Lì 3CE Velvet Lip Tint: Đẹp Lì và Cảm Xúc Cùng Màu Sắc</title>
+      <link>/2023/10/anh-gia-son-kem-li-3ce-velvet-lip-tint.html</link>
+      <pubDate>Tue, 31 Oct 2023 12:06:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-son-kem-li-3ce-velvet-lip-tint.html</guid>
+      <description>Một trong những xu hướng trang điểm phổ biến hiện nay là son kem lì, và 3CE Velvet Lip Tint là một trong những sản phẩm tiêu biểu được nhiều người yêu thích. Với sự kết hợp hoàn hảo giữa chất lượng, màu sắc đẹp và thiết kế hiện đại, son kem lì này đã chinh phục hàng triệu trái tim của những người yêu thời trang và làm đẹp. Trong bài viết này, chúng ta sẽ đánh giá chi tiết về 3CE Velvet Lip Tint và khám phá xem nó có gì đặc biệt.</description>
+    </item>
+    <item>
+      <title>Đánh giá Sáp Vuốt Tóc Nam Reuzel Blue Pomade: Phong Cách Cổ Điển và Kiểm Soát Hoàn Hảo</title>
+      <link>/2023/10/anh-gia-sap-vuot-toc-nam-reuzel-blue.html</link>
+      <pubDate>Tue, 31 Oct 2023 11:02:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-sap-vuot-toc-nam-reuzel-blue.html</guid>
+      <description>Sáp vuốt tóc nam là một phần quan trọng của quy trình tạo kiểu tóc của nhiều quý ông. Sự lựa chọn đúng loại sáp vuốt có thể là yếu tố quyết định giữa một kiểu tóc hoàn hảo và một kiểu tóc lạ mắt. Một trong những tùy chọn hàng đầu trong thế giới sáp vuốt là Reuzel Blue Pomade. Bài viết này sẽ đánh giá sáp vuốt tóc nam Reuzel Blue Pomade và xem xem nó có gì đặc biệt.</description>
+    </item>
+    <item>
+      <title>Đánh giá Máy Tính Casio FX 580VNX: Đối tác Đáng Tin Cậy trong Học Tập và Công Việc</title>
+      <link>/2023/10/anh-gia-may-tinh-casio-fx-580vnx-oi-tac.html</link>
+      <pubDate>Tue, 31 Oct 2023 10:51:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-may-tinh-casio-fx-580vnx-oi-tac.html</guid>
+      <description>Máy tính khoa học là một công cụ không thể thiếu cho sinh viên, giáo viên, nhà nghiên cứu, và người làm việc trong lĩnh vực khoa học. Trong thị trường máy tính khoa học, Casio FX 580VNX nổi bật với thiết kế hiện đại và chức năng đa dạng. Bài viết này sẽ đánh giá chi tiết về máy tính Casio FX 580VNX và tìm hiểu xem nó có gì đặc biệt.</description>
+    </item>
+    <item>
+      <title>Đánh giá Balo Laptop CoolBell PS 698</title>
+      <link>/2023/10/anh-gia-balo-laptop-coolbell-ps-698.html</link>
+      <pubDate>Tue, 31 Oct 2023 10:44:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-balo-laptop-coolbell-ps-698.html</guid>
+      <description>Khi nhu cầu di chuyển và làm việc từ xa ngày càng tăng cao, balo laptop trở thành một phần không thể thiếu trong cuộc sống hàng ngày của nhiều người. Và trong thế giới đầy đa dạng của các sản phẩm, CoolBell PS 698 nổi lên với thiết kế thời trang, tính năng an toàn cho laptop và tính tiện ích cho người dùng. Bài viết này sẽ đánh giá chi tiết chiếc balo laptop này và tìm hiểu xem nó có gì đặc biệt.</description>
+    </item>
+    <item>
+      <title>Đánh giá Giày Thể Thao Sneaker NY: Khi Phong Cách Gặp Sự Thoải Mái</title>
+      <link>/2023/10/anh-gia-giay-thao-sneaker-ny-khi-phong.html</link>
+      <pubDate>Tue, 31 Oct 2023 10:37:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-giay-thao-sneaker-ny-khi-phong.html</guid>
+      <description>Giày thể thao sneaker luôn có một vị thế đặc biệt trong thế giới thời trang và phong cách cá nhân. Chúng không chỉ mang đến vẻ đẹp thời trang mà còn là một biểu tượng của sự thoải mái và độ tiện lợi. Trong thế giới đa dạng của giày sneaker, &amp;ldquo;Sneaker NY&amp;rdquo; đã nổi lên như một tượng đài của sự kết hợp giữa phong cách và thoải mái.</description>
+    </item>
+    <item>
+      <title>Đánh giá Giày Adidas Campus 00&#39;s Black White</title>
+      <link>/2023/10/anh-gia-giay-adidas-campus-00s-black.html</link>
+      <pubDate>Mon, 30 Oct 2023 17:41:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-giay-adidas-campus-00s-black.html</guid>
+      <description>Trong thế giới của giày thể thao, Adidas luôn nổi tiếng với sự kết hợp hoàn hảo giữa phong cách và chất lượng. Trong bài viết này, chúng ta sẽ đánh giá một trong những mẫu giày mới nhất của họ, đó chính là Giày Adidas Campus 00&amp;rsquo;s Black White, một phiên bản hiện đại của mẫu giày kinh điển từ những năm 2000. Cùng TruongThanh.info tìm hiểu bạn nhé.</description>
+    </item>
+    <item>
+      <title>Đánh giá Loa MARSHALL KILBURN M13</title>
+      <link>/2023/10/anh-gia-loa-marshall-kilburn-m13.html</link>
+      <pubDate>Mon, 30 Oct 2023 14:09:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-loa-marshall-kilburn-m13.html</guid>
+      <description>Âm nhạc đã và đang trở thành một phần quan trọng trong cuộc sống hàng ngày của chúng ta, và để thưởng thức âm nhạc tốt nhất, chúng ta cần các thiết bị âm thanh chất lượng. Trong thế giới của loa di động, Marshall đã lâu đã nổi tiếng với các sản phẩm chất lượng và thiết kế độc đáo. Trong bài viết này, chúng ta sẽ tập trung vào đánh giá Loa MARSHALL KILBURN M13, một trong những sản phẩm mới nhất của hãng.</description>
+    </item>
+    <item>
+      <title>Đánh giá Giày Adidas Samba Classic White</title>
+      <link>/2023/10/anh-gia-giay-adidas-samba-classic-white.html</link>
+      <pubDate>Mon, 30 Oct 2023 14:03:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-giay-adidas-samba-classic-white.html</guid>
+      <description>Giày thể thao luôn có một sức hút đặc biệt đối với mọi người, không chỉ vì tính năng thoải mái và tiện lợi mà chúng mang lại mà còn vì sự thời trang và phong cách mà chúng đại diện. Trong thế giới giày thể thao, Adidas đã lâu đã trở thành một thương hiệu danh tiếng với nhiều mẫu giày kinh điển. Trong bài viết này, chúng ta sẽ tập trung vào đánh giá Giày Adidas Samba Classic White, một phiên bản kinh điển của thương hiệu Adidas.</description>
+    </item>
+    <item>
+      <title>Đánh Giá Giày Cổ Thấp Panda</title>
+      <link>/2023/10/anh-gia-giay-co-thap-panda.html</link>
+      <pubDate>Mon, 30 Oct 2023 13:49:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-giay-co-thap-panda.html</guid>
+      <description>Giày cổ thấp, một phần không thể thiếu trong tủ đồ của bất kỳ người yêu thời trang nào, đã trở thành một biểu tượng phong cách thời trang toàn cầu. Trong thế giới này, có vô vàn thương hiệu, từ những tên tuổi nổi tiếng đến các nhãn hiệu mới nổi. Trong bài viết này, chúng ta sẽ tập trung vào việc đánh giá giày cổ thấp của thương hiệu Panda - một sự kết hợp giữa phong cách, chất lượng và giá trị.</description>
+    </item>
+    <item>
+      <title>Đánh giá Cân Điện Tử Sức Khỏe INCEPTION - Đồng Hành Cùng Bạn Trên Hành Trình Sức Khỏe</title>
+      <link>/2023/10/anh-gia-can-ien-tu-suc-khoe-inception.html</link>
+      <pubDate>Sun, 29 Oct 2023 19:21:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-can-ien-tu-suc-khoe-inception.html</guid>
+      <description>Sức khỏe luôn là một trọng tâm quan trọng trong cuộc sống của chúng ta, và việc theo dõi cân nặng là một phần quan trọng trong quá trình duy trì sự khỏe mạnh. Trong bài viết này, chúng ta sẽ cùng nhau đánh giá chi tiết về Cân Điện Tử Sức Khỏe INCEPTION, một sản phẩm giúp bạn kiểm soát cân nặng và quản lý sức khỏe một cách hiệu quả.</description>
+    </item>
+    <item>
+      <title>Đánh giá Giày Asics Court Mz Cream Black Gum - Sự Kết Hợp Hoàn Hảo Giữa Thời Trang và Sự Thoải Mái</title>
+      <link>/2023/10/anh-gia-giay-asics-court-mz-cream-black.html</link>
+      <pubDate>Sun, 29 Oct 2023 18:56:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-giay-asics-court-mz-cream-black.html</guid>
+      <description>Giày thể thao không chỉ đơn thuần là một phần của trang phục hàng ngày, mà còn là một tuyên bố về phong cách và sự thoải mái. Trong bài viết này, chúng ta sẽ cùng nhau khám phá và đánh giá chi tiết về Giày Asics Court Mz Cream Black Gum, một sản phẩm thể thao hấp dẫn mà bạn nên xem xét cho bộ sưu tập giày của mình.</description>
+    </item>
+    <item>
+      <title>Đánh giá Máy Hút Bụi Đa Chức Năng Giá Rẻ DB300 - Sự Lựa Chọn Tốt Cho Gia Đình</title>
+      <link>/2023/10/anh-gia-may-hut-bui-chuc-nang-gia-re.html</link>
+      <pubDate>Sun, 29 Oct 2023 18:50:00 +0700</pubDate>
+      <guid>/2023/10/anh-gia-may-hut-bui-chuc-nang-gia-re.html</guid>
+      <description>Máy hút bụi là một thiết bị không thể thiếu trong mọi gia đình. Nó không chỉ giúp bạn duy trì sạch sẽ và thoải mái mà còn là công cụ quan trọng trong việc bảo vệ sức khỏe gia đình. Trong bài viết này, chúng ta sẽ cùng nhau đánh giá chi tiết Máy Hút Bụi Đa Chức Năng giá rẻ DB300, một sản phẩm đáng xem xét cho nhu cầu hút bụi của gia đình.</description>
+    </item>
+    <item>
+      <title>Đánh giá Sáp Vuốt Tóc Nam REUZEL Pink - Sự Lựa Chọn Hoàn Hảo Cho Đàn Ông</title>
+      <link>/2023/10/danh-gia-sap-vuot-toc-nam-reuzel-pink.html</link>
+      <pubDate>Sun, 29 Oct 2023 12:48:00 +0700</pubDate>
+      <guid>/2023/10/danh-gia-sap-vuot-toc-nam-reuzel-pink.html</guid>
+      <description>Có lẽ bạn đã từng nghe nói về REUZEL Pink, một sản phẩm sáp vuốt tóc nam đình đám. Không chỉ nổi tiếng với thiết kế hấp dẫn mà còn với khả năng tạo kiểu tóc hoàn hảo. Vậy, REUZEL Pink có đáng được lựa chọn? Hãy cùng TruongThanh.info tìm hiểu chi tiết trong bài đánh giá này.
+1. Đóng gói và Thiết kế
+REUZEL Pink được đóng gói trong hộp thiết kế độc đáo với gam màu đen và hồng nổi bật.</description>
+    </item>
+    <item>
+      <title>Sự phân bố địa lý của các ngôn ngữ trên toàn thế giới</title>
+      <link>/2023/10/su-phan-bo-ia-ly-cua-cac-ngon-ngu-tren.html</link>
+      <pubDate>Fri, 27 Oct 2023 11:09:00 +0700</pubDate>
+      <guid>/2023/10/su-phan-bo-ia-ly-cua-cac-ngon-ngu-tren.html</guid>
+      <description>Tiếng Anh được nói ở Anh. Tiếng Đức ở Đức. Nhưng ngôn ngữ nào thực sự đã lan rộng đến mức nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Tiếng Anh và tiếng Pháp thường được coi là &amp;ldquo;ngôn ngữ thế giới&amp;rdquo; ở thế giới phương Tây, nhưng do số liệu dân số cao ở Trung Quốc và Ấn Độ, thay vào đó, các ngôn ngữ quốc gia ở đó lại là tiếng mẹ đẻ được sử dụng thường xuyên nhất trên thế giới.</description>
+    </item>
+    <item>
+      <title>Các sân bay lớn nhất thế giới gồm những sân bay nào?</title>
+      <link>/2023/10/cac-san-bay-lon-nhat-gioi-gom-nhung-san.html</link>
+      <pubDate>Wed, 25 Oct 2023 17:33:00 +0700</pubDate>
+      <guid>/2023/10/cac-san-bay-lon-nhat-gioi-gom-nhung-san.html</guid>
+      <description>Các sân bay lớn nhất thế giới là những sân bay nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Sân bay lớn nhất trong bảng xếp hạng này là Sân bay Quốc tế Hartsfield Jackson Atlanta ở Hoa Kỳ. Với 724.145 lượt cất cánh và hạ cánh vào năm 2022, sân bay này chắc chắn nằm trong danh sách các sân bay lớn nhất thế giới. 37 hãng hàng không đang bắt đầu từ đây và bay đến nhiều điểm đến du lịch.</description>
+    </item>
+    <item>
+      <title>Emoji Là Gì</title>
+      <link>/2023/10/emoji-la-gi.html</link>
+      <pubDate>Thu, 19 Oct 2023 14:25:00 +0700</pubDate>
+      <guid>/2023/10/emoji-la-gi.html</guid>
+      <description>Emoji Là Gì? Emoji bắt nguồn từ đâu? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Emoji bắt nguồn từ Nhật Bản và được gọi là &amp;ldquo;絵文字/えもじ emoji&amp;rdquo; trong tiếng Nhật. Emoji đầu tiên có màu đen và trắng, do công ty SoftBank của Nhật Bản tung ra vào những năm 1990.
+Năm 1999, Shigetaka Kurita đã thiết kế 176 hình ảnh biểu tượng cảm xúc 12x12 pixel để phát hành &amp;ldquo;i-mode&amp;rdquo;, dịch vụ Internet di động tích hợp của nhà khai thác di động Nhật Bản NTT DoCoMo.</description>
+    </item>
+    <item>
+      <title>Các siêu đô thị trên thế giới là những đô thị nào?</title>
+      <link>/2023/10/sieu-do-thi.html</link>
+      <pubDate>Tue, 17 Oct 2023 14:22:00 +0700</pubDate>
+      <guid>/2023/10/sieu-do-thi.html</guid>
+      <description>Các siêu đô thị trên thế giới là những đô thị nào? Siêu đô thị là gì? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Họ là những thành phố lớn nhất thế giới, có vài triệu người và sự pha trộn văn hóa tuyệt vời trong phạm vi dân số rộng lớn của họ. Chính phủ và chính trị không thể so sánh được với chính quyền và chính trị của một thị trấn nhỏ ở vùng nông thôn đầy đồng cỏ.</description>
+    </item>
+    <item>
+      <title>Danh sách tất cả các thủ đô trên thế giới</title>
+      <link>/2023/10/danh-sach-tat-ca-cac-thu-o-tren-the-gioi.html</link>
+      <pubDate>Thu, 12 Oct 2023 17:35:00 +0700</pubDate>
+      <guid>/2023/10/danh-sach-tat-ca-cac-thu-o-tren-the-gioi.html</guid>
+      <description>Danh sách tất cả các thủ đô trên thế giới? Thủ đô là gì? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Trong hầu hết mỗi bài kiểm tra, các câu hỏi về một số vốn nhất định dường như đều xuất hiện. London, Washington hay Moscow sẽ dễ dàng có câu trả lời. Nhưng trong trường hợp các hòn đảo nhỏ ở Caribe hoặc Châu Đại Dương, hầu hết chúng ta sẽ bắt đầu gặp khó khăn.</description>
+    </item>
+    <item>
+      <title>Những ngọn núi cao nhất thế giới</title>
+      <link>/2023/10/nhung-ngon-nui-cao-nhat.html</link>
+      <pubDate>Thu, 12 Oct 2023 17:15:00 +0700</pubDate>
+      <guid>/2023/10/nhung-ngon-nui-cao-nhat.html</guid>
+      <description>Những ngọn núi cao nhất thế giới là những ngọn núi nào? Một ngọn núi là gì? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Khi còn nhỏ, bạn được học ở trường rằng ngọn núi cao nhất là đỉnh Everest, với độ cao 8.848 (29.032 ft) mét. Nó nằm trên dãy núi Himalaya ở biên giới giữa Nepal và Trung Quốc và được leo lên lần đầu tiên vào năm 1953. Kể từ đó, đã có vô số cuộc leo núi khác.</description>
+    </item>
+    <item>
+      <title>Các quốc gia nhỏ nhất thế giới</title>
+      <link>/2023/10/cac-quoc-gia-nho-nhat-the-gioi.html</link>
+      <pubDate>Thu, 12 Oct 2023 15:57:00 +0700</pubDate>
+      <guid>/2023/10/cac-quoc-gia-nho-nhat-the-gioi.html</guid>
+      <description>Các quốc gia nhỏ nhất thế giới là những quốc giá nào? Top 30 quốc gia nhỏ nhất thế giới? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Chỉ với 0,44 km2, Thành phố Vatican ở trung tâm Rome cho đến nay là quốc gia nhỏ nhất trên thế giới. Ở vị trí thứ hai là thành phố-nhà nước Monaco trên bờ biển Địa Trung Hải của Pháp với diện tích 2,0 km2.</description>
+    </item>
+    <item>
+      <title>Các quốc gia lớn nhất thế giới</title>
+      <link>/2023/10/cac-quoc-gia-lon-nhat-the-gioi.html</link>
+      <pubDate>Thu, 12 Oct 2023 15:34:00 +0700</pubDate>
+      <guid>/2023/10/cac-quoc-gia-lon-nhat-the-gioi.html</guid>
+      <description>Các quốc gia lớn nhất thế giới là những quốc gia nào? Top các quốc gia lớn nhất thế giới? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Bản thân câu hỏi về quốc gia lớn nhất thế giới đã có chút vấn đề. Cho dù bạn lấy số dân đông nhất hay diện tích bề mặt lớn nhất, cả hai phép so sánh đều không bao gồm các quốc gia nhỏ như Hồng Kông hay Singapore , mặc dù chúng đóng một vai trò to lớn, ngay cả đối với thế giới phương Tây.</description>
+    </item>
+    <item>
+      <title>Trên thế giới có bao nhiêu quốc gia và vùng lãnh thổ?</title>
+      <link>/2023/10/tren-gioi-co-bao-nhieu-quoc-gia.html</link>
+      <pubDate>Wed, 04 Oct 2023 17:56:00 +0700</pubDate>
+      <guid>/2023/10/tren-gioi-co-bao-nhieu-quoc-gia.html</guid>
+      <description>Trên thế giới có bao nhiêu quốc gia và vùng lãnh thổ? Đây là câu hỏi được rất nhiều bạn đọc quan tâm. Hãy đọc bài viết sau đây của TruongThanh.info để tìm hiểu rõ hơn về các quốc gia và vùng lãnh thổ trên thế giới các bạn nhé!
+Trước tiên, chúng ta hãy tìm hiểu xem định nghĩa của một quốc gia (nước) là gì nhé. Theo Điều 1 của Công ước Montevideo (Montevideo Convention) về quyền và nghĩa vụ của các quốc gia được ký kết tại Montevideo, Uruguay vào ngày 26/12/1933: “Một quốc gia là một chủ thể của luật quốc tế, có chủ quyền hoàn toàn, phải đáp ứng được những tiêu chuẩn sau: Lãnh thổ xác định, chính phủ và khả năng tham gia vào các quan hệ quốc tế, dân số ổn định”.</description>
+    </item>
+    <item>
+      <title>Trên thế giới có tất cả bao nhiêu Châu Lục?</title>
+      <link>/2023/10/tren-gioi-co-tat-ca-bao-nhieu-chau-luc.html</link>
+      <pubDate>Wed, 04 Oct 2023 17:32:00 +0700</pubDate>
+      <guid>/2023/10/tren-gioi-co-tat-ca-bao-nhieu-chau-luc.html</guid>
+      <description>Trên thế giới có tất cả bao nhiêu Châu Lục? Thế giới có những Châu Lục nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Trên thế giới hiện nay có tất cả 6 Châu lục gồm: Châu Mỹ, Châu Âu, Châu Á, Châu Phi, Châu Úc, Châu Đại Dương
+Châu Mỹ
+Châu Mỹ bao gồm 57 quốc gia với tổng diện tích đất liền là 43 triệu km2 (16 triệu dặm vuông), chiếm 28% bề mặt có thể sinh sống được của Trái đất.</description>
+    </item>
+    <item>
+      <title>Châu Đại Dương có bao nhiêu quốc gia?</title>
+      <link>/2023/10/oceania.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:52:00 +0700</pubDate>
+      <guid>/2023/10/oceania.html</guid>
+      <description>Châu Đại Dương có bao nhiêu quốc gia? Châu Đại Dương có diện tích là bao nhiêu? Châu Đại Dương có bao nhiêu người? Châu Đại Dương gồm những quốc gia nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Đường viền của Châu Đại Dương không được xác định rõ ràng. Chúng gần như là khu vực giới hạn trong các quần đảo giữa Châu Á, Úc và Bờ Tây Hoa Kỳ.</description>
+    </item>
+    <item>
+      <title>Châu Úc có bao nhiêu quốc gia?</title>
+      <link>/2023/10/australia.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:36:00 +0700</pubDate>
+      <guid>/2023/10/australia.html</guid>
+      <description>Châu Úc có bao nhiêu quốc gia? Châu Úc có diện tích là bao nhiêu? Châu Úc có bao nhiêu người? Châu Úc gồm những quốc gia nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Với Úc, nói chung chỉ có vùng đất rộng lớn nhất, đất nước Úc, được coi là một phần của lục địa, nhưng bản thân lục địa này bao gồm một số quốc gia. Thực hiện nghiêm túc, Quần đảo Heard và McDonald cũng thuộc về đất nước Úc nhưng về mặt địa lý được quy cho lục địa Nam Cực .</description>
+    </item>
+    <item>
+      <title>Trung Phi gồm những quốc gia nào? </title>
+      <link>/2023/10/central-africa.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:28:00 +0700</pubDate>
+      <guid>/2023/10/central-africa.html</guid>
+      <description>Trung Phi gồm những quốc gia nào? Trung Phi có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Trung Phi thuộc Châu Phi gồm những quốc gia sau:
+Ăng-gô-la Ca-mơ-run Cộng hòa trung phi Tchad Cộng hòa Dân chủ Congo Equatorial Guinea Gabon Cộng hòa Congo Sao Tome và Principe { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;345&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Đông Phi gồm những quốc gia nào?</title>
+      <link>/2023/10/eastern-africa.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:26:00 +0700</pubDate>
+      <guid>/2023/10/eastern-africa.html</guid>
+      <description>Đông Phi gồm những quốc gia nào? Đông Phi có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Đông Phi thuộc Châu Phi gồm những quốc gia sau:
+Lãnh thổ Ấn Độ Dương thuộc Anh Burundi Comoros Djibouti Eritrea Ethiopia Kenya Madagascar Malawi Mô-ri-xơ Mayotte Mozambique Reunion Rwanda Seychelles Somali Tanzania Uganda Zambia Zimbabwe { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;564&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Tây Phi gồm những quốc gia nào?</title>
+      <link>/2023/10/western-africa.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:23:00 +0700</pubDate>
+      <guid>/2023/10/western-africa.html</guid>
+      <description>Tây Phi gồm những quốc gia nào? Tây Phi có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Tây Phi thuộc Châu Phi gồm những quốc gia sau:
+Tây Phi
+Bénin Burkina Faso Cabo Verde Gambia Ghana Ghi-nê Guiné-Bissau Bờ biển Ngà Liberia Mali Mauritanie Niger Nigeria Thánh Helena, Thăng thiên và Tristan da Cunha Sénégal Sierra Leone Togo { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;245&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Nam Phi gồm những quốc gia nào?</title>
+      <link>/2023/10/southern-africa.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:19:00 +0700</pubDate>
+      <guid>/2023/10/southern-africa.html</guid>
+      <description>Nam Phi gồm những quốc gia nào? Nam Phi có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nam Phi thuộc Châu phí có 5 quốc gia:
+Botswana Eswatini Lesotho Namibia Nam Phi { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;543&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Bắc Phi gồm những quốc gia nào?</title>
+      <link>/2023/10/northern-african.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:16:00 +0700</pubDate>
+      <guid>/2023/10/northern-african.html</guid>
+      <description>Bắc Phi gồm những quốc gia nào? Bắc Phi có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Bắc Phi thuộc Châu Phi có 8 quốc gia gồm những quốc gia sau:
+Algérie Ai Cập Lybia Ma-rốc Nam Sudan Sudan Tunisia Tây Sahara { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;134&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Châu Phi có bao nhiêu quốc gia?</title>
+      <link>/2023/10/africa.html</link>
+      <pubDate>Wed, 04 Oct 2023 16:03:00 +0700</pubDate>
+      <guid>/2023/10/africa.html</guid>
+      <description>Châu Phi có bao nhiêu quốc gia? Châu Phi có diện tích là bao nhiêu? Châu Phi có bao nhiêu người? Châu Phi gồm những quốc gia nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Châu Phi có bao nhiêu quốc gia?
+Châu Phi bao gồm 59 quốc gia Châu Phi có diện tích là bao nhiêu? Châu Phi có tổng diện tích đất liền là 31 triệu km2 (mười hai triệu dặm vuông), chiếm 20% bề mặt có thể sinh sống được của Trái đất.</description>
+    </item>
+    <item>
+      <title>Đông Á gồm những quốc gia nào?</title>
+      <link>/2023/10/east-asia.html</link>
+      <pubDate>Wed, 04 Oct 2023 14:04:00 +0700</pubDate>
+      <guid>/2023/10/east-asia.html</guid>
+      <description>Đông Á gồm những quốc gia nào? Đông Á có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Đông Á thuộc Châu Á gồm có 8 quốc gia sau:
+Trung Quốc Hồng Kông Nhật Bản Macao Mông Cổ Bắc Triều Tiên Hàn Quốc Đài Loan { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;88&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Đông Nam Á gồm những quốc gia nào?</title>
+      <link>/2023/10/southeast-asia.html</link>
+      <pubDate>Wed, 04 Oct 2023 14:03:00 +0700</pubDate>
+      <guid>/2023/10/southeast-asia.html</guid>
+      <description>Đông Nam Á gồm những quốc gia nào? Đông Nam Á có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Đông Nam Á thuộc Châu Á gồm 11 quốc gia sau:
+Brunei Campuchia Đông Timor Indonesia Nước Lào Malaysia Myanmar Philippin Singapore Thái Lan Việt Nam { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;223&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Nam Á gồm những quốc gia nào?</title>
+      <link>/2023/10/south-asia.html</link>
+      <pubDate>Wed, 04 Oct 2023 13:58:00 +0700</pubDate>
+      <guid>/2023/10/south-asia.html</guid>
+      <description>Nam Á gồm những quốc gia nào? Nam Á có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nam Á thuộc Châu Á gồm 9 quốc gia
+Afghanistan Bangladesh Bhutan Ấn Độ Iran Maldives Nepal Pakistan Sri Lanka { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;112&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Trung Á gồm những quốc gia nào?</title>
+      <link>/2023/10/central-asia.html</link>
+      <pubDate>Wed, 04 Oct 2023 13:04:00 +0700</pubDate>
+      <guid>/2023/10/central-asia.html</guid>
+      <description>Trung Á gồm những quốc gia nào? Trung Á có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Trung Á thuộc Châu Á gồm 5 quốc gia sau:
+Trung Á
+Kazakhstan Kyrgyzstan Tajikistan Turkmenistan Uzbekistan { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;644&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Tây Á gồm những quốc gia nào? </title>
+      <link>/2023/10/western-asia.html</link>
+      <pubDate>Wed, 04 Oct 2023 12:55:00 +0700</pubDate>
+      <guid>/2023/10/western-asia.html</guid>
+      <description>Tây Á gồm những quốc gia nào? Tây Á có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Tây Á thuộc Châu Á có 18 quốc gia
+Tây Á
+Armenia Azerbaijan Bahrain Síp Gruzia Irắc israel Jordan Cô-oét Liban Ô-man Palestine Qatar Ả Rập Saudi Syria Thổ Nhĩ Kỳ các Tiểu Vương Quốc Ả Rập Thống Nhất Yêmen { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;45&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Châu Á có bao nhiêu quốc gia?</title>
+      <link>/2023/10/asia.html</link>
+      <pubDate>Wed, 04 Oct 2023 11:10:00 +0700</pubDate>
+      <guid>/2023/10/asia.html</guid>
+      <description>Châu Á có bao nhiêu quốc gia? Châu Á có diện tích là bao nhiêu? Châu Á có bao nhiêu người? Châu Á gồm những quốc gia nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Châu Á có bao nhiêu quốc gia?
+Châu Á bao gồm 51 quốc gia Châu Á có diện tích là bao nhiêu? Châu Á có tổng diện tích đất liền là 45 triệu km2 (17 triệu dặm vuông), chiếm 30% bề mặt có thể sinh sống được của Trái đất.</description>
+    </item>
+    <item>
+      <title>Nam Âu gồm những quốc gia nào? </title>
+      <link>/2023/10/southern-europe.html</link>
+      <pubDate>Tue, 03 Oct 2023 16:43:00 +0700</pubDate>
+      <guid>/2023/10/southern-europe.html</guid>
+      <description>Nam Âu gồm những quốc gia nào? Nam Âu có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nam Âu gồm những nước nào? Nam Âu thuộc Châu Âu có 17 quốc gia gồm những quốc gia sau:
+Albania Andorra Bosnia và Herzegovina Croatia Gibraltar Hy Lạp Nước Ý Kosovo Malta Montenegro Bắc Macedonia Bồ Đào Nha San Marino Serbia Slovenia Tây ban nha Thành phố Vatican { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.</description>
+    </item>
+    <item>
+      <title> Bắc Âu gồm những quốc gia nào? </title>
+      <link>/2023/10/northern-europe.html</link>
+      <pubDate>Tue, 03 Oct 2023 16:40:00 +0700</pubDate>
+      <guid>/2023/10/northern-europe.html</guid>
+      <description>Bắc Âu gồm những quốc gia nào? Bắc Âu có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Bắc Âu gồm những nước nào?
+Bắc Âu thuộc Châu Âu có 16 quốc gia gồm các quốc gia sau:
+Quần đảo Åland Đan mạch Estonia Quần đảo Faroe Phần Lan Guernsey Nước Iceland Ireland Đảo Man jersey Latvia Litva Na Uy Svalbard Thụy Điển Vương quốc Anh { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.</description>
+    </item>
+    <item>
+      <title>Đông Âu gồm những quốc gia nào?</title>
+      <link>/2023/10/eastern-europe.html</link>
+      <pubDate>Tue, 03 Oct 2023 16:36:00 +0700</pubDate>
+      <guid>/2023/10/eastern-europe.html</guid>
+      <description>Đông Âu gồm những quốc gia nào? Đông Âu có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Đông Âu gồm những nước nào?
+Đông Âu thuộc Châu Âu có 10 quốc gia gồm những quốc gia sau:
+Bêlarut Bulgaria Séc Hungary Moldavia Ba Lan Rumani Nga Slovakia Ukraina { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;79&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Tây Âu gồm những quốc gia nào?</title>
+      <link>/2023/10/western-europe.html</link>
+      <pubDate>Tue, 03 Oct 2023 16:30:00 +0700</pubDate>
+      <guid>/2023/10/western-europe.html</guid>
+      <description>Tây Âu gồm những quốc gia nào? Tây Âu có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Tây Âu gồm những quốc gia nào?
+Tây Âu thuộc Châu Âu có 9 quốc gia gồm những quốc gia sau:
+Áo Bỉ Pháp Đức Liechtenstein Luxembourg Hà Lan Công quốc Monaco Thụy sĩ { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;67&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Châu Âu có bao nhiêu quốc gia?</title>
+      <link>/2023/10/europe.html</link>
+      <pubDate>Tue, 03 Oct 2023 16:23:00 +0700</pubDate>
+      <guid>/2023/10/europe.html</guid>
+      <description>Châu Âu có bao nhiêu quốc gia? Châu Âu có diện tích là bao nhiêu? Châu Âu có bao nhiêu người? Châu Âu gồm những quốc gia nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Châu Âu có bao nhiêu quốc gia?
+Châu Âu bao gồm 52 quốc gia Châu Âu có diện tích là bao nhiêu? Tổng diện tích đất liền là mười triệu km2 (bốn triệu dặm vuông), chiếm 6,6% bề mặt có thể ở được của Trái đất.</description>
+    </item>
+    <item>
+      <title>Quốc gia là gì?</title>
+      <link>/2023/10/country.html</link>
+      <pubDate>Tue, 03 Oct 2023 15:24:00 +0700</pubDate>
+      <guid>/2023/10/country.html</guid>
+      <description>Một đất nước là gì? Định nghĩa về đất nước? Một Quốc gia là gì? Một Tiểu bang là gì? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Có một số định nghĩa thường mơ hồ về &amp;ldquo;quốc gia&amp;rdquo; hay &amp;ldquo;tiểu bang&amp;rdquo; là gì. Tuy nhiên, khái niệm quốc gia không bao giờ giống khái niệm quốc gia có chủ quyền. Tùy theo định nghĩa, một quốc gia có thể đã là một quốc gia liên bang hoặc một đơn vị hành chính chính trị khác.</description>
+    </item>
+    <item>
+      <title>Vùng Caribe gồm những quốc gia nào?</title>
+      <link>/2023/10/caribe.html</link>
+      <pubDate>Tue, 03 Oct 2023 13:21:00 +0700</pubDate>
+      <guid>/2023/10/caribe.html</guid>
+      <description>Vùng Caribe có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Vùng Caribe hay vùng Caribbean thuộc Châu Mỹ có 28 quốc gia sau:
+Anguilla Antigua and Barbuda Aruba Bahamas Barbados British Virgin Islands Caribbean Netherlands Cayman Islands Cuba Curacao Dominica Dominican Republic Grenada Guadeloupe Haiti Jamaica Martinique Montserrat Puerto Rico Saint Barthelemy Saint Kitts and Nevis Saint Lucia Saint Martin Saint Vincent and the Grenadines Sint Maarten Trinidad and Tobago Turks and Caicos Islands Virgin Islands { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.</description>
+    </item>
+    <item>
+      <title>Nam Mỹ có bao nhiêu quốc gia?</title>
+      <link>/2023/10/south-america.html</link>
+      <pubDate>Tue, 03 Oct 2023 13:18:00 +0700</pubDate>
+      <guid>/2023/10/south-america.html</guid>
+      <description>Nam Mỹ gồm những quốc gia nào? South America có bao nhiêu quốc gia? South America gồm những quốc gia nào? Cùng TruongThanh.info tìm hiểu bạn nhé.
+Nam Mỹ hay South America thuộc Châu Mỹ gồm 16 quốc gia sau:
+Argentina Bôlivia Đảo Bouvet Brazil Chilê Colombia Ecuador Quần đảo Falkland Guiana thuộc Pháp Guyana Paraguay Peru Quần đảo Nam Georgia và Nam Sandwich Suriname Uruguay Venezuela { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;546&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Trung Mỹ có bao nhiêu quốc gia?</title>
+      <link>/2023/10/central-america.html</link>
+      <pubDate>Tue, 03 Oct 2023 13:14:00 +0700</pubDate>
+      <guid>/2023/10/central-america.html</guid>
+      <description>Central America có bao nhiêu quốc gia? Trung Mỹ có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu các bạn nhé.
+Trung Mỹ hay Central America thuộc Châu Mỹ và có tổng cộng 7 quốc gia, gồm những quốc gia sau:
+Belize Costa Rica El Salvador Guatemala Honduras Nicaragua Panama { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;456&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Bắc Mỹ gồm những quốc gia nào?</title>
+      <link>/2023/10/north-america.html</link>
+      <pubDate>Tue, 03 Oct 2023 13:09:00 +0700</pubDate>
+      <guid>/2023/10/north-america.html</guid>
+      <description>Bắc Mỹ có bao nhiêu quốc gia? North America có bao nhiêu quốc gia? Cùng TruongThanh.info tìm hiểu các bạn nhé.
+Bắc Mỹ hay North America thuộc Châu Mỹ và gồm 7 quốc gia sau: Bermuda Canada Greenland México Thánh Pierre và Miquelon nước Mỹ { &amp;ldquo;@context&amp;rdquo;: &amp;ldquo;https://schema.org&amp;rdquo;, &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;CreativeWorkSeries&amp;rdquo;, &amp;ldquo;name&amp;rdquo;: &amp;ldquo;Đánh giá&amp;rdquo;, &amp;ldquo;aggregateRating&amp;rdquo;: { &amp;ldquo;@type&amp;rdquo;: &amp;ldquo;AggregateRating&amp;rdquo;, &amp;ldquo;ratingValue&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;bestRating&amp;rdquo;: &amp;ldquo;5&amp;rdquo;, &amp;ldquo;ratingCount&amp;rdquo;: &amp;ldquo;544&amp;rdquo; } }</description>
+    </item>
+    <item>
+      <title>Châu Mỹ có bao nhiêu quốc gia?</title>
+      <link>/2023/10/america.html</link>
+      <pubDate>Tue, 03 Oct 2023 13:04:00 +0700</pubDate>
+      <guid>/2023/10/america.html</guid>
+      <description>America gồm những quốc gia nào? America có bao nhiêu quốc gia? Châu Mỹ có bao nhiêu quốc gia?
+Cùng TruongThanh.Info tìm hiểu các bạn nhé.
+Châu Mỹ có bao nhiêu quốc gia?
+Châu Mỹ bao gồm 57 quốc gia
+Châu Mỹ có diện tích bao nhiêu?
+Tổng diện tích đất liền là 43 triệu km2 (16 triệu dặm vuông), chiếm 28% bề mặt có thể sinh sống được của Trái đất.</description>
+    </item>
+    <item>
+      <title>Danh sách mã điện thoại theo quốc gia</title>
+      <link>/2023/10/ma-dien-thoai.html</link>
+      <pubDate>Tue, 03 Oct 2023 12:30:00 +0700</pubDate>
+      <guid>/2023/10/ma-dien-thoai.html</guid>
+      <description>Mã gọi quốc tế là gì? Mỗi quốc gia có mã gọi riêng. Chúng được nhóm gần đúng theo khu vực, ví dụ: tất cả các mã vùng ở Bắc Mỹ bắt đầu bằng 1 và ở Châu Phi bằng 2. Nếu bạn đang gọi từ quốc gia này sang quốc gia khác, bạn bắt đầu nhập số có cái gọi là &amp;ldquo;mã quay số trực tiếp quốc tế&amp;rdquo; ( mã IDD).</description>
+    </item>
+    <item>
+      <title>Mã quốc gia quốc tế là gì? Đuôi tên miền của các quốc gia là bao nhiêu?</title>
+      <link>/2023/09/ma-quoc-gia.html</link>
+      <pubDate>Thu, 28 Sep 2023 15:32:00 +0700</pubDate>
+      <guid>/2023/09/ma-quoc-gia.html</guid>
+      <description>Mã quốc gia quốc tế của các quốc gia là bao nhiêu, Mã tiền tệ các quốc gia là gì, Đuôi tên miền của các quốc gia là bao nhiêu. Cùng TruongThanh.Info tìm hiểu các bạn nhé
+Mã quốc gia quốc tế của tất cả các bang theo một số tiêu chuẩn khác nhau.
+ISO:
+Tổ chức Quốc tế về Tiêu chuẩn hoá
+IOC:
+Ủy ban Olympic quốc tế
+Fips 10:</description>
+    </item>
+    <item>
+      <title>Saint Pierre and Miquelon là nước nào?</title>
+      <link>/2023/09/saint-pierre-and-miquelon.html</link>
+      <pubDate>Thu, 28 Sep 2023 15:00:00 +0700</pubDate>
+      <guid>/2023/09/saint-pierre-and-miquelon.html</guid>
+      <description>Greenland là nước nào? Greenland thuộc châu lục nào? Greenland có diện tích là bao nhiêu? cùng TruongThanh.info tìm hiểu quốc gia Greenland các bạn nhé.
+Thánh Pierre và Miquelon
+Dân chủ nghị viện (lãnh thổ Pháp)
+Chính thức: Tập thể lãnh thổ Saint-Pierre và Miquelon
+Tên địa phương: Thánh Pierre và Miquelon
+Vùng đất: Bắc Mỹ
+Diện tích bề mặt: 242 km2
+Thủ đô: Thánh Pierre
+Địa lý
+Saint Pierre và Miquelon là một quốc đảo ở Bắc Đại Tây Dương, cách Newfoundland khoảng 25 km về phía nam.</description>
+    </item>
+    <item>
+      <title>Mexico là nước nào?</title>
+      <link>/2023/09/mexico.html</link>
+      <pubDate>Thu, 28 Sep 2023 14:43:00 +0700</pubDate>
+      <guid>/2023/09/mexico.html</guid>
+      <description>Mexico là nước nào? Mexico thuộc châu lục nào? Mexico có diện tích là bao nhiêu? cùng TruongThanh.info tìm hiểu quốc gia Mexico các bạn nhé.
+México: Cộng hòa tổng thống liên bang
+México
+Chính thức: hợp chúng quốc México
+Tên địa phương: México
+Diện tích bề mặt: 1.964.375 km2
+Thủ đô: thành phố Mexico
+Địa lý
+Mexico là một quốc gia phía nam nước Mỹ và ngăn cách Đại Tây Dương với Thái Bình Dương.</description>
+    </item>
+    <item>
+      <title>Greenland là nước nào?</title>
+      <link>/2023/09/greenland.html</link>
+      <pubDate>Thu, 28 Sep 2023 14:01:00 +0700</pubDate>
+      <guid>/2023/09/greenland.html</guid>
+      <description>Greenland là nước nào? Greenland thuộc châu lục nào? Greenland có diện tích là bao nhiêu? cùng TruongThanh.info tìm hiểu quốc gia Greenland các bạn nhé
+Greenland
+Dân chủ nghị viện (lãnh thổ Vương quốc Đan Mạch)
+Tên địa phương: Kalaallit Nunaat / Grønland
+Vùng đất: Bắc Mỹ
+Diện tích bề mặt: 2.166.000 km2
+Thủ đô: Nuuk
+Địa lý
+Greenland là một quốc đảo ở phía bắc Đại Tây Dương tại Bắc Băng Dương.</description>
+    </item>
+    <item>
+      <title>Canada là nước nào?</title>
+      <link>/2023/09/canada.html</link>
+      <pubDate>Tue, 26 Sep 2023 16:57:00 +0700</pubDate>
+      <guid>/2023/09/canada.html</guid>
+      <description>Canada là nước nào? Canada thuộc châu lục nào, diện tích Canada là bao nhiêu? Cùng TruongThanh.info tìm hiểu quốc gia Canada các bạn nhé
+Canada
+Cộng hòa nghị viện liên bang (theo chế độ quân chủ lập hiến)
+Tên địa phương:Canada
+Vùng đất: Bắc Mỹ
+Diện tích bề mặt: 9.984.670 km2
+Thủ đô: Ottawa
+Canada trên bản đồ thế giới
+Địa lý
+Canada là một quốc gia ở Bắc Mỹ nằm giữa Hoa Kỳ và Greenland, bao gồm các vùng đảo hiểm trở ở Bắc Cực ở phía bắc.</description>
+    </item>
+    <item>
+      <title>Bermuda là nước nào?</title>
+      <link>/2023/09/blog-post.html</link>
+      <pubDate>Tue, 26 Sep 2023 16:41:00 +0700</pubDate>
+      <guid>/2023/09/blog-post.html</guid>
+      <description>Bermuda là nước nào? Bermuda thuộc châu lục nào? Bermuda có diện tích là bao nhiêu? cùng TruongThanh.info tìm hiểu quốc gia Bermuda các bạn nhé
+Tên địa phương: Bermuda
+Vùng đất: Bắc Mỹ
+Diện tích bề mặt: 53 km2
+Thủ đô: Hamilton
+Địa lý
+Bermudas là một quần đảo ở Bắc Đại Tây Dương. Bang lùn này có tổng diện tích chỉ 53 km (21 mi) và tổng chiều dài đường bờ biển là 103 km (64,0 mi).</description>
+    </item>
+  </channel>
 </rss>

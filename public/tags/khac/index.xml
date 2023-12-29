@@ -1,30 +1,32 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>khac - Tag - TruongThanh.info</title>
-        <link>/tags/khac/</link>
-        <description>khac - Tag - TruongThanh.info</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nguyentruongthank@gmail.com (Thanh)</managingEditor>
-            <webMaster>nguyentruongthank@gmail.com (Thanh)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Oct 2023 12:30:00 &#43;0700</lastBuildDate><atom:link href="/tags/khac/" rel="self" type="application/rss+xml" /><item>
-    <title>Danh sách mã điện thoại theo quốc gia</title>
-    <link>/2023/10/ma-dien-thoai.html</link>
-    <pubDate>Tue, 03 Oct 2023 12:30:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/10/ma-dien-thoai.html</guid>
-    <description><![CDATA[Mã gọi quốc tế là gì? Mỗi quốc gia có mã gọi riêng. Chúng được nhóm gần đúng theo khu vực, ví dụ: tất cả các mã vùng ở Bắc Mỹ bắt đầu bằng 1 và ở Châu Phi bằng 2. Nếu bạn đang gọi từ quốc gia này sang quốc gia khác, bạn bắt đầu nhập số có cái gọi là &ldquo;mã quay số trực tiếp quốc tế&rdquo; ( mã IDD).]]></description>
-</item>
-<item>
-    <title>Mã quốc gia quốc tế là gì? Đuôi tên miền của các quốc gia là bao nhiêu?</title>
-    <link>/2023/09/ma-quoc-gia.html</link>
-    <pubDate>Thu, 28 Sep 2023 15:32:00 &#43;0700</pubDate>
-    <author>Thanh</author>
-    <guid>/2023/09/ma-quoc-gia.html</guid>
-    <description><![CDATA[Mã quốc gia quốc tế của các quốc gia là bao nhiêu, Mã tiền tệ các quốc gia là gì, Đuôi tên miền của các quốc gia là bao nhiêu. Cùng TruongThanh.Info tìm hiểu các bạn nhé
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>khac on TruongThanhinfo</title>
+    <link>/tags/khac/</link>
+    <description>Recent content in khac on TruongThanhinfo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Oct 2023 12:30:00 +0700</lastBuildDate>
+    <atom:link href="/tags/khac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Danh sách mã điện thoại theo quốc gia</title>
+      <link>/2023/10/ma-dien-thoai.html</link>
+      <pubDate>Tue, 03 Oct 2023 12:30:00 +0700</pubDate>
+      <guid>/2023/10/ma-dien-thoai.html</guid>
+      <description>Mã gọi quốc tế là gì? Mỗi quốc gia có mã gọi riêng. Chúng được nhóm gần đúng theo khu vực, ví dụ: tất cả các mã vùng ở Bắc Mỹ bắt đầu bằng 1 và ở Châu Phi bằng 2. Nếu bạn đang gọi từ quốc gia này sang quốc gia khác, bạn bắt đầu nhập số có cái gọi là &amp;ldquo;mã quay số trực tiếp quốc tế&amp;rdquo; ( mã IDD).</description>
+    </item>
+    <item>
+      <title>Mã quốc gia quốc tế là gì? Đuôi tên miền của các quốc gia là bao nhiêu?</title>
+      <link>/2023/09/ma-quoc-gia.html</link>
+      <pubDate>Thu, 28 Sep 2023 15:32:00 +0700</pubDate>
+      <guid>/2023/09/ma-quoc-gia.html</guid>
+      <description>Mã quốc gia quốc tế của các quốc gia là bao nhiêu, Mã tiền tệ các quốc gia là gì, Đuôi tên miền của các quốc gia là bao nhiêu. Cùng TruongThanh.Info tìm hiểu các bạn nhé
 Mã quốc gia quốc tế của tất cả các bang theo một số tiêu chuẩn khác nhau.
 ISO:
 Tổ chức Quốc tế về Tiêu chuẩn hoá
 IOC:
 Ủy ban Olympic quốc tế
-Fips 10:]]></description>
-</item>
-</channel>
+Fips 10:</description>
+    </item>
+  </channel>
 </rss>
