@@ -1,9 +1,13 @@
 ---
 title: 'Hướng dẫn cách làm bánh chuối thơm ngon và đơn giản tại nhà'
-date: 2023-11-07T14:14:00.002+07:00
-draft: false
+categories:
+- Development
+- VIM
 tags: 
 - cach-lam
+date: 2023-11-07T14:14:00.002+07:00
+draft: false
+author: Thanh 
 ---
 
 Bánh chuối là một món tráng miệng ngon miệng và là lựa chọn hoàn hảo cho những trái chuối chín quá mà bạn không muốn lãng phí. Trong bài viết này, chúng ta sẽ hướng dẫn bạn cách làm bánh chuối thơm ngon và đơn giản tại nhà. Cùng [TruongThanh.info](http://www.truongthanh.info) tìm hiểu bạn nhé.
@@ -90,5 +94,3 @@ Mua bột ở tại đây: [https://shope.ee/LMPddpkGz](https://shope.ee/LMPddp
 Hãy theo dõi [TruongThanh](http://www.truongthanh.info) để không bỏ lỡ bất kỳ thông tin quan trọng nào từ chúng tôi.
 
   
-
-{ "@context": "https://schema.org", "@type": "CreativeWorkSeries", "name": "Đánh giá", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5", "bestRating": "5", "ratingCount": "123" } }
